@@ -1,5 +1,23 @@
 rest:
   ssl: true
-  host: dspacecris7.4science.cloud
+  host: ideaspire.cloud
   port: 443
   nameSpace: /server
+
+searchResult:
+  additionalMetadataFields:
+    - entityType: publication
+      metadataConfiguration:
+        - name: dc.relation.journal
+          rendering: text
+          label: Journal
+        - name: dc.relation.issn
+          rendering: text
+          label: ISSN
+        - name: dc.identifier.doi
+          rendering: identifier.doi
+          label: DOI
+    - entityType: fallback  # used for other entity types
+      metadataConfiguration:
+        - name: dc.identifier.doi
+          rendering: text

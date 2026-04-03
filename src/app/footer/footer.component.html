@@ -5,47 +5,60 @@
     <div *ngIf="!hasSiteFooterSections" class=" container p-4">
       <!--Grid row-->
       <div class="row">
-
+        <!--Grid column-->
+        <div class="col-lg-4 col-md-6 mb-4 mb-lg-0 text-start">
+          <a href="https://www.unibe.edu.do/" target="_blank">
+            <img id="footer-logo" class="d-block" style="margin:0;" 
+                src="https://www.unibe.edu.do/wp-content/themes/unibe/assets/images/logo-unibe-blue-nuevo.svg">
+          </a>
+          <p class="mt-2">
+            Universidad Iberoamericana<br>
+            Av. Francia No. 129, Gazcue<br>
+            Santo Domingo, República Dominicana
+          </p>
+        </div>
+        <!--Grid column-->
+        <!--Grid column-->
+        <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+          <a href="https://www.unibe.edu.do/investigacion/">
+            <img src="assets/images/hub_investigacion_unibe.png" class="logo-hub">
+          </a>
+        </div>
+        <!--Grid column-->
         <!--Grid column-->
         <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-          <h5 class="text-uppercase">Get Involved!</h5>
-
           <ul class="list-unstyled mb-0">
-            <li>
-              <a href="https://github.com/4Science/DSpace/tree/main-cris" role="link" tabindex="0">
-                <i class="fab fa-github" aria-hidden="true"></i> Source Code</a>
+            <li *ngIf="showSendFeedback$ | async">
+              <a class="footer-link"
+                routerLink="info/feedback">{{ 'footer.link.feedback' | translate}}</a>
             </li>
             <li>
-              <a href="https://wiki.lyrasis.org/display/DSPACECRIS/" role="link" tabindex="0">
-                <i class="fa fa-book" aria-hidden="true"></i> Documentation</a>
+              <a class="footer-link"
+                routerLink="info/accessibility">{{ 'footer.link.accessibility' | translate }}</a>
             </li>
-            <li>
-              <a href="https://dspace-org.slack.com/messages/dspace-cris/" role="link" tabindex="0">
-                <i class="fab fa-slack" aria-hidden="true"></i> Slack Channel</a>
+            <li *ngIf="showEndUserAgreement">
+              <a class="footer-link"
+                routerLink="info/end-user-agreement">{{ 'footer.link.end-user-agreement' | translate}}</a>
+            </li>
+            <li *ngIf="showPrivacyPolicy">
+              <a class="footer-link"
+                routerLink="info/privacy">{{ 'footer.link.privacy-policy' | translate}}</a>
             </li>
           </ul>
         </div>
         <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-          <h5 class="text-uppercase">Make it your own</h5>
-          <p>
-            DSpace-CRIS can be extensively configured to meet your needs. Decide which information need to be collected and available
-            with fine-grained security. Start updating the theme to match your Institution's web identity.
-          </p>
-        </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-          <h5 class="text-uppercase">Need professional help?</h5>
-          <p>The original creators of DSpace-CRIS at
-            <a href="https://www.4science.it/en/">4Science</a> can take your project to the next level,
-            <a href="https://www.4science.it/en/contact-us/">get in touch!</a>
-          </p>
-        </div>
-        <!--Grid column-->
+      </div>
+      <div class="row footer-top-line">
+          <div class="content-container">
+            <p class="m-0">
+              {{ 'footer.built-with' | translate }}
+              <a href="https://wiki.lyrasis.org/display/DSPACECRIS/" role="link" tabindex="0">{{ 'footer.link.dspace-cris' | translate}}</a>
+              {{ 'footer.extension-by' | translate }}
+              <a href="https://www.4science.it/en/" role="link" tabindex="0">
+                <img class="footer-4science-logo" src="assets/images/4science_blue_transparent.png" alt="{{ 'footer.link.4science' | translate}}" />
+              </a>
+            </p>
+          </div>
       </div>
       <!--Grid row-->
     </div>
@@ -53,46 +66,16 @@
   <!-- Grid container -->
 
   <!-- Copyright -->
-  <div class="bottom-footer p-1 d-flex justify-content-center align-items-center text-white">
-    <div class="content-container">
-      <p class="m-0">
-        {{ 'footer.built-with' | translate }}
-        <a class="text-white" href="https://wiki.lyrasis.org/display/DSPACECRIS/" role="link" tabindex="0">{{ 'footer.link.dspace-cris' | translate}}</a>
-        {{ 'footer.extension-by' | translate }}
-        <a class="text-white" href="https://www.4science.it/en/" role="link" tabindex="0">
-          <img src="assets/images/logo-4science-small.png" alt="{{ 'footer.link.4science' | translate}}" />
-        </a>
-      </p>
-      <ul class="footer-info list-unstyled d-flex justify-content-center mb-0">
-        <li *ngIf="showCookieSettings">
-          <button class="btn btn-link text-white" type="button" (click)="openCookieSettings()" role="button" tabindex="0">
-            {{ 'footer.link.cookies' | translate}}
-          </button>
-        </li>
-        <li>
-          <a class="btn text-white"
-             routerLink="info/accessibility" role="link" tabindex="0">{{ 'footer.link.accessibility' | translate }}</a>
-        </li>
-        <li *ngIf="showPrivacyPolicy">
-          <a class="btn text-white"
-             routerLink="info/privacy" role="link" tabindex="0">{{ 'footer.link.privacy-policy' | translate}}</a>
-        </li>
-        <li *ngIf="showEndUserAgreement">
-          <a class="btn text-white"
-             routerLink="info/end-user-agreement" role="link" tabindex="0">{{ 'footer.link.end-user-agreement' | translate}}</a>
-        </li>
-        <li *ngIf="showSendFeedback$ | async">
-          <a class="btn text-white"
-             routerLink="info/feedback" role="link" tabindex="0">{{ 'footer.link.feedback' | translate}}</a>
-        </li>
+    <div class="bottom-footer p-1 d-flex justify-content-center align-items-center text-white">
+        <ul class="footer-info list-unstyled d-flex justify-content-center mb-0">
+        @if (showCookieSettings) {
+          <li>
+            <button class="btn btn-link text-white" type="button" (click)="openCookieSettings()" role="button" tabindex="0">
+              {{ 'footer.link.cookies' | translate}}
+            </button>
+          </li>
+        }
       </ul>
     </div>
-    <div *ngIf="coarLdnEnabled$ | async" class="notify-enabled text-white">
-      <a class="coar-notify-support-route" routerLink="info/coar-notify-support" role="link" tabindex="0">
-        <img class="n-coar" src="assets/images/n-coar.svg" [attr.alt]="'menu.header.image.logo' | translate" />
-        {{ 'footer.link.coar-notify-support' | translate }}
-      </a>
-    </div>
-  </div>
   <!-- Copyright -->
 </footer>

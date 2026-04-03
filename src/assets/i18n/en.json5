@@ -2641,7 +2641,7 @@
 
   "footer.link.4science": "4Science",
 
-  "footer.link.accessibility": "Accessibility settings",
+  "footer.link.accessibility": "Accessibility Statement",
 
   "footer.link.dspace": "DSpace software",
 
@@ -2655,7 +2655,7 @@
 
   "footer.link.end-user-agreement": "End User Agreement",
 
-  "footer.link.feedback": "Send Feedback",
+  "footer.link.feedback": "Contact",
 
   "footer.link.coar-notify-support": "COAR Notify",
 
@@ -4374,9 +4374,9 @@
 
   "menu.section.explore_researchoutputs": "Research Outputs",
 
-  "menu.section.explore_researcherprofiles": "People",
+  "menu.section.explore_researcherprofiles": "Researchers",
 
-  "menu.section.explore_orgunits": "Organizations",
+  "menu.section.explore_orgunits": "Institutes & centers",
 
   "menu.section.browse_global_by_srsc": "By Subject Category",
 
@@ -4388,9 +4388,9 @@
 
   "menu.section.explore_projects": "Projects",
 
-  "menu.section.explore_fundings_and_projects": "Fundings & Projects",
+  "menu.section.explore_fundings_and_projects": "Projects",
 
-  "menu.section.communities_and_collections": "Communities & Collections",
+  "menu.section.communities_and_collections": "Collections",
 
   "menu.section.control_panel": "Control Panel",
 
@@ -9292,6 +9292,11 @@
 
 
   // Do not add new labels below layout ones
-  // All new labels should be placed together with similar ones, or in alphabetical orders
-
+  // All new labels should be placed together with similar ones, or in alphabetical orders,
+  "info.about.breadcrumbs":"About CRIS",
+  "info.about":"About CRIS",
+  "explore.counters-section.organizational-units":"Institutes & centers",
+  "menu.section.explore_journals":"Journals",
+  "menu.section.explore_organizational-units":"Institutes & centers",
+  "explore.counters-section.patentes":"Patents"
 }

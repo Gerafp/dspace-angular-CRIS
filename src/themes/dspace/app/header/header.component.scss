@@ -1,7 +1,12 @@
 :host {
+
+  ds-themed-header {
+    height: 150px;
+  }
+
   #main-site-header {
     min-height: var(--ds-header-height);
-
+    
     @include media-breakpoint-up(md) {
       height: var(--ds-header-height);
     }
@@ -24,5 +29,11 @@
       color: var(--ds-header-icon-color-hover);
     }
   }
+
+#main-site-header-container-navbar {
+  border-top: 3px #e9ecef solid;
+  min-height: 3pc;
+}
+
 
 }

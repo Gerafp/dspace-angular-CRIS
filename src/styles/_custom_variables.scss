@@ -93,7 +93,7 @@
   --ds-notification-bg-info: #{darken(adjust-hue($info, -10), 10%)};
   --ds-notification-bg-warning: #{darken(adjust-hue($warning, -10), 10%)};
 
-  --ds-top-footer-bg: #{$gray-200};
+  --ds-top-footer-bg: #fafafa;
   --ds-footer-bg: #{theme-color('primary')};
   --ds-footer-border: 1px solid var(--bs-gray-400);
   --ds-footer-padding: 0;
@@ -105,8 +105,8 @@
   --ds-home-news-link-hover-color: #{darken($ds-home-news-link-color, 15%)};
   --ds-home-news-background-color: #{$gray-200};
 
-  --ds-breadcrumb-bg: #{$gray-200} !important;
-  --ds-breadcrumb-link-color: #{$ds-breadcrumb-link-color};
+  --ds-breadcrumb-bg: #ddd !important;
+  --ds-breadcrumb-link-color: #0054a6;
   --ds-breadcrumb-link-active-color: #{darken($ds-breadcrumb-link-color, 30%)};
   --ds-breadcrumb-max-length: 200px;
 
@@ -126,7 +126,7 @@
   --ds-date-picker-input-max-width: 300px;
 
   --ds-cris-layout-sidebar-width: 350px;
-  --ds-cris-layout-sidebar-background-color: #{$gray-200};
+  --ds-cris-layout-sidebar-background-color: #5472D2;
   --ds-cris-layout-sidebar-link-color: rgba(0, 0, 0, .8);
   --ds-cris-layout-sidebar-link-color-active: #000000;
   --ds-cris-layout-sidebar-menu-background: #207698;
@@ -135,8 +135,8 @@
   --ds-cris-layout-sidebar-entry-height: 40px;
   --ds-cris-layout-sidebar-entry-width: 40px;
   --ds-cris-layout-sidebar-border-color: #207698;
-  --ds-cris-layout-sidebar-hover-focus-background-color: #207698;
-  --ds-cris-layout-sidebar-hover-focus-border-color: #207698;
+  --ds-cris-layout-sidebar-hover-focus-background-color: #0054a6;
+  --ds-cris-layout-sidebar-hover-focus-border-color: #0054a6;
   --ds-cris-layout-sidebar-menu-active-color: #{$cyan};
   --ds-cris-layout-sidebar-menu-active-background: #{theme-color('light')};
   --ds-cris-layout-sidebar-tab-color-hover : #{theme-color('light')};

@@ -1,7 +1,13 @@
 :host {
-  a {
-    font-weight: bold;
+a {
+  font-weight: normal;
+  color: #0054a6;
+  text-decoration: underline;
+
+  &:hover {
+    text-decoration: none;
   }
+}
 
   footer {
     background-color: var(--ds-footer-bg);
@@ -72,6 +78,59 @@
         }
       }
     }
+  }
+
+  #footer-logo {
+    max-height: 25%;
+  }
+  .footer-4science-logo {
+    max-width: 15%;
+  }
+  p.mt-2 {
+    text-align: left;
+  }
+  .list-unstyled.mb-0 {
+    text-align: right;
+    margin-top: 1rem;
+  }
+
+  .logo-hub {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: -1rem;
+  }
+
+  .footer-link {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+  }
+
+  footer ul li {
+    margin-bottom: 2px;
+  }
+
+  .footer-top-line {
+    position: relative;
+    .content-container {
+      margin-top: 1rem;
+    }
+  }
+
+  .footer-top-line::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(
+      to right,
+      transparent,
+      #43515f,
+      transparent
+    );
   }
 }
 

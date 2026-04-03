@@ -21,7 +21,7 @@
 	min-height: calc(100vh - 500px);
 	width: var(--ds-cris-layout-sidebar-width);
   color: var(--ds-cris-layout-sidebar-link-color-active);
-  background: var(--ds-cris-layout-sidebar-background-color);
+  background: #fff;
   transition: all 0.3s;
   position: relative;
   &.active{

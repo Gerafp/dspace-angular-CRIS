@@ -386,14 +386,14 @@ export class DefaultAppConfig implements AppConfig {
   homePage: HomeConfig = {
     recentSubmissions: {
       //The number of item showing in recent submission components
-      pageSize: 5,
+      pageSize: 10,
       //sort record of recent submission
       sortField: 'dc.date.accessioned',
     },
     topLevelCommunityList: {
       pageSize: 5,
     },
-    showDiscoverFilters: false,
+    showDiscoverFilters: true,
   };
 
   // Item Config
