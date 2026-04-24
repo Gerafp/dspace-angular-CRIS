@@ -17,6 +17,7 @@
 nav.navbar {
     align-items: baseline;
     background-color: var(--ds-cris-layout-navbar-background-color);
+    border-bottom: 1px solid var(--ds-cris-layout-navbar-border);
 }
 
 /** Mobile menu styling **/

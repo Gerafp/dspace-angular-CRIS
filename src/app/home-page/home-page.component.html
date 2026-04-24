@@ -18,7 +18,6 @@
       <div class="row">
         <div *ngFor="let sectionComponent of sectionComponentRow" [class]="componentClass(sectionComponent)"
              [ngSwitch]="sectionComponent.componentType">
-
           <ds-top-section *ngSwitchCase="'top'"
                                  [sectionId]="sectionId"
                                  [topSection]="$any(sectionComponent)"></ds-top-section>
@@ -46,6 +45,11 @@
 
         </div>
       </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+        <button (click)="goToSearch()" class="btn btn-primary search-button mt-4" role="link" tabindex="0">Cargar más...</button>
     </div>
   </div>
 </ng-container>

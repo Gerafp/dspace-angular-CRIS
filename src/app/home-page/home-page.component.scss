@@ -2,6 +2,24 @@
   #home-header-wrapper {
     margin-top: calc(var(--ds-content-spacing) * -1);
   }
+
+  ds-base-top-section{
+      ds-metric-donuts{
+      display: none;
+    }
+  }
+
+  ds-search-section.ng-star-inserted {
+    position: relative;
+    top: -40px;
+  }
+
+  
+  img.unibe_logo {
+      object-fit: contain !important;
+      scale: 60% !important;
+  }
+
 }
 
 @include media-breakpoint-down(md) {

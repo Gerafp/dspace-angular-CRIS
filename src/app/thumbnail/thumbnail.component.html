@@ -12,7 +12,7 @@
   <div *ngIf="(src$ | async) === null && (isLoading$ | async) === false" class="thumbnail-content outer" #thumbnailBox>
     <div class="inner">
         <div class="thumbnail-placeholder centered">
-        {{ placeholder | translate }}
+        <img class="thumbnail-content img-fluid ng-star-inserted" src="assets/images/file-placeholder.svg" alt="Miniatura" style="">
       </div>
     </div>
   </div>

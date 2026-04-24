@@ -34,11 +34,13 @@ ds-counters-section i {
 
 ds-base-counters-section b{
   color: #fff;
-  background-color: #f90;
+  background-color: #bfd3e5;
   border: 0;
   border-radius: 0.25rem;
   padding: .1pc;
   font-style: normal;
+  display: inline-block;
+  min-width: 36px;
 }
 
 
@@ -83,4 +85,214 @@ ds-base-counters-section b{
 
 .w-100{
   margin-top: 5px;
+}
+
+ds-navbar {
+  font-size: .9rem;
+}
+
+/* 1. Ocultar textos originales */
+.button-download a span[data-test="title"],
+.button-download span[data-test="description"],
+.button-download .expandButton {
+  display: none !important;
+}
+
+/* 2. Convertir a botón */
+.button-download a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+
+  padding: 6px 12px;
+
+  background-color: #00478d;
+  color: white !important;
+
+  border-radius: 6px;
+  text-decoration: none;
+
+  font-size: 14px;
+  font-weight: 500;
+
+  transition: background-color 0.2s ease;
+}
+
+/* 3. Hover */
+.button-download a:hover {
+  background-color: #bfd3e5;
+}
+
+/* 4. Agregar texto "Download" */
+.button-download a::after {
+  content: "Download";
+  color: white;
+}
+
+/* 5. Ajustar icono */
+.button-download i.fas.fa-download {
+  font-size: 14px;
+}
+
+.button-download .text-primary {
+  color: #fff !important;
+}
+
+
+
+/* 1. Ocultar el header (primer <tr>) */
+.header-date table tr:first-child {
+  display: none !important;
+}
+
+/* 2. Compactar la tabla */
+.header-date table {
+  margin-bottom: 0;
+  font-size: 15px;
+}
+
+/* 3. Reducir padding de celdas */
+.header-date table td {
+  padding: 2px 6px !important;
+  vertical-align: middle;
+}
+
+/* 4. Quitar estilos innecesarios del header (por si Angular cambia estructura) */
+.header-date table td.table-light {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* 5. Ajustar contenedor */
+.header-date .table-responsive {
+  margin-bottom: 0;
+}
+
+/* 6. Opcional: hacer inline (tipo etiqueta compacta) */
+.header-date table {
+  width: auto;
+}
+
+.header-date table td {
+  white-space: nowrap;
+}
+
+.header-date a {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* Color blanco consistente */
+.doi-badge a {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* Prefijo DOI */
+.doi-badge a::before {
+  content: "DOI: ";
+  font-weight: 600;
+  margin-right: 2px;
+}
+
+/* Hover accesible */
+.doi-badge a:hover {
+  text-decoration: underline;
+  color: #fff !important;
+}
+
+.badge-header, .doi-badge{
+  background-color: #c0c0c0 !important;
+  color: #fff !important;
+}
+
+.font-weight-bold {
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+}
+
+
+/* Contenedor general */
+.connected-papers .link-value a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  max-width: 420px;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+
+  background: #f8f9fa;
+  border: 1px solid #dcdfe3;
+  border-radius: 8px;
+
+  color: #2c3e50;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+/* Hover */
+.connected-papers .link-value a:hover {
+  background: #e9f2ff;
+  border-color: #4a90e2;
+  color: #1a73e8;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Icono antes del texto */
+.connected-papers .link-value a::before {
+  content: "🔗";
+  flex-shrink: 0;
+  font-size: 15px;
+}
+
+/* Si quieres que cada link ocupe una línea completa */
+.connected-papers ds-metadata-render {
+  display: block;
+  width: 100%;
+}
+
+
+.header-style{
+    h1 {
+    font-size: 1.75rem;
+  }
+  /* Centrar el contenedor completo */
+  ds-thumbnail,
+  ds-base-thumbnail,
+  .thumbnail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  /* Centrar y limitar la imagen */
+  .thumbnail-content {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Si el contenedor padre usa float-left, lo anulamos */
+  span[ds-thumbnail] {
+    float: none !important;
+    display: flex !important;
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+ds-search-facet-option .break-facet{
+  margin-top: 0px !important;
 }

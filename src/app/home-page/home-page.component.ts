@@ -58,6 +58,8 @@ import { ThemedTextSectionComponent } from '../shared/explore/section-component/
 import { ThemedTopSectionComponent } from '../shared/explore/section-component/top-section/themed-top-section.component';
 import { HomeCoarComponent } from './home-coar/home-coar.component';
 import { ThemedHomeNewsComponent } from './home-news/themed-home-news.component';
+import { Router } from '@angular/router';
+import { TranslateModule } from '@ngx-translate/core';
 
 @Component({
   selector: 'ds-base-home-page',
@@ -79,6 +81,7 @@ import { ThemedHomeNewsComponent } from './home-news/themed-home-news.component'
     ThemedCountersSectionComponent,
     SuggestionsPopupComponent,
     AsyncPipe,
+    TranslateModule,
   ],
 })
 export class HomePageComponent implements OnInit, OnDestroy {
@@ -116,6 +119,7 @@ export class HomePageComponent implements OnInit, OnDestroy {
     private locale: LocaleService,
     private responseService: ServerResponseService,
     private notifyInfoService: NotifyInfoService,
+    private router: Router,
     protected linkHeadService: LinkHeadService,
   ) {
     this.recentSubmissionspageSize = environment.homePage.recentSubmissions.pageSize;
@@ -194,6 +198,17 @@ export class HomePageComponent implements OnInit, OnDestroy {
   ngOnDestroy(): void {
     this.inboxLinks.forEach((link: LinkDefinition) => {
       this.linkHeadService.removeTag(`href='${link.href}'`);
+    });
+  }
+  goToSearch() {
+    this.router.navigate(['/search'], {
+      queryParams: {
+        'spc.page': 1,
+        'configuration': 'site',
+        'f.entityType': 'Publication,equals',
+        'spc.sf': 'dc.date.issued',
+        'spc.sd': 'DESC'
+      }
     });
   }
 }

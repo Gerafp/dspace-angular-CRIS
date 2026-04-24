@@ -45,6 +45,11 @@ export class TagComponent extends RenderingTypeStructuredModelComponent implemen
   * it initializes chips for all values.
   */
   ngOnInit() {
+    console.log('Metadata values:', this.metadataValues);
+    console.log('Field:', this.fieldProvider);
+    console.log('Item:', this.itemProvider);
+    console.log('Metadata key:', this.fieldProvider.metadata);
+    const metadataKey = this.fieldProvider?.metadata;
     if ( this.indexToBeRendered > 0 ) {
       this.initChips([this.metadataValues[this.indexToBeRendered]]);
     } else {

@@ -29,10 +29,8 @@
           <ds-in-workflow-statistics  *ngIf="showWorkflowStatistics" [item]="dso"></ds-in-workflow-statistics>
           <span class="text-muted">
             <ds-truncatable-part [id]="dso.id" [minLines]="1">
-              <ng-container *ngIf="dso.firstMetadataValue('dc.publisher') || dso.firstMetadataValue('dc.date.issued')">
-                (<span *ngIf="dso.firstMetadataValue('dc.publisher')" class="item-list-publisher" [innerHTML]="firstMetadataValue('dc.publisher')"></span>
-                <span *ngIf="dso.firstMetadataValue('dc.publisher') && dso.firstMetadataValue('dc.date.issued')">, </span>
-                <span *ngIf="dso.firstMetadataValue('dc.date.issued')" class="item-list-date"
+              <ng-container *ngIf="dso.firstMetadataValue('dc.date.issued')">
+                (<span *ngIf="dso.firstMetadataValue('dc.date.issued')" class="item-list-date"
                       [innerHTML]="firstMetadataValue('dc.date.issued')"></span>)
               </ng-container>
               <span *ngIf="dso.allMetadataValues(authorMetadata, placeholderFilter).length > 0" class="item-list-authors">
@@ -43,7 +41,7 @@
                     </span>
                   </ng-container>
                   <ng-container *ngIf="!isCollapsed">
-                     <span *ngFor="let author of dso.allMetadata(authorMetadata, placeholderFilter); let i=index; let last=last;">
+                     <span *ngFor="let author of dso.limitedMetadata(authorMetadata, additionalMetadataLimit, placeholderFilter); let i=index; let last=last;">
                       <ds-metadata-link-view [item]="dso" [metadata]="author" [metadataName]="authorMetadata"></ds-metadata-link-view><span *ngIf="!last">; </span>
                     </span>
                   </ng-container>

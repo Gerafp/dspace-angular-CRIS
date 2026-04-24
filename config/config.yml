@@ -6,9 +6,9 @@ rest:
 
 searchResult:
   additionalMetadataFields:
-    - entityType: publication
+    - entityType: Publication
       metadataConfiguration:
-        - name: dc.relation.journal
+        - name: dc.relation.ispartof
           rendering: text
           label: Journal
         - name: dc.relation.issn

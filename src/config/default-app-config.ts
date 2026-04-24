@@ -948,7 +948,7 @@ export class DefaultAppConfig implements AppConfig {
 
   searchResult: SearchResultConfig = {
     additionalMetadataFields: [],
-    authorMetadata: ['dc.contributor.author', 'dc.creator', 'dc.contributor.*'],
+    authorMetadata: ['dc.contributor.author', 'dc.creator'],
   };
 
   mirador: MiradorConfig = {
