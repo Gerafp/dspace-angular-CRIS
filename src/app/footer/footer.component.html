@@ -9,7 +9,7 @@
         <div class="col-lg-4 col-md-6 mb-4 mb-lg-0 text-start">
           <a href="https://www.unibe.edu.do/" target="_blank">
             <img id="footer-logo" class="d-block" style="margin:0;" 
-                src="https://www.unibe.edu.do/wp-content/themes/unibe/assets/images/logo-unibe-blue-nuevo.svg">
+                src="assets/images/logo-unibe-blue-nuevo.svg">
           </a>
           <p class="mt-2">
             Universidad Iberoamericana<br>
@@ -20,7 +20,7 @@
         <!--Grid column-->
         <!--Grid column-->
         <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-          <a href="https://www.unibe.edu.do/investigacion/">
+          <a href="https://www.unibe.edu.do/hub-de-investigacion-e-innovacion/" target="_blank">
             <img src="assets/images/hub_investigacion_unibe.png" class="logo-hub">
           </a>
         </div>
@@ -28,21 +28,17 @@
         <!--Grid column-->
         <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
           <ul class="list-unstyled mb-0">
-            <li *ngIf="showSendFeedback$ | async">
-              <a class="footer-link"
-                routerLink="info/feedback">{{ 'footer.link.feedback' | translate}}</a>
-            </li>
             <li>
               <a class="footer-link"
                 routerLink="info/accessibility">{{ 'footer.link.accessibility' | translate }}</a>
             </li>
             <li *ngIf="showEndUserAgreement">
               <a class="footer-link"
-                routerLink="info/end-user-agreement">{{ 'footer.link.end-user-agreement' | translate}}</a>
+                href="https://www.unibe.edu.do/terminos-de-uso/" target="_blank">{{ 'footer.link.end-user-agreement' | translate}}</a>
             </li>
             <li *ngIf="showPrivacyPolicy">
               <a class="footer-link"
-                routerLink="info/privacy">{{ 'footer.link.privacy-policy' | translate}}</a>
+                href="https://www.unibe.edu.do/politica-de-privacidad/" target="_blank">{{ 'footer.link.privacy-policy' | translate}}</a>
             </li>
           </ul>
         </div>

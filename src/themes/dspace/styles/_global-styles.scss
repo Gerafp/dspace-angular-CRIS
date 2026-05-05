@@ -296,3 +296,89 @@ ds-navbar {
 ds-search-facet-option .break-facet{
   margin-top: 0px !important;
 }
+
+
+/* Logo de unibe, no lo tomo la vez pasada*/
+img.unibe_logo {
+    object-fit: contain !important;
+    scale: 60% !important;
+}
+
+.badge {
+    display: inline-flex;
+}
+
+span.badge.badge-info,
+span.text-value,
+span.flex-grow-1.text-left {
+    padding: 4px 6px;
+}
+
+a {
+    transition: 0.5s;
+}
+
+a.lead.item-list-title {
+    font-weight: bold;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    line-height: 1.2;
+    display: inline-block;
+}
+
+.header-style .thumbnail-content {
+    max-width: 150px !important;
+}
+
+[_nghost-dspace-angular-c1801524404] ul .active > .nav-item, [_nghost-dspace-angular-c1801524404] .sidebar-section.active > div > .nav-item {
+    background: transparent;
+    font-weight: bold;
+    color: #00478d;
+}
+
+ds-cris-layout-loader div#cris-layout-loader {
+    margin-top: 50px;
+}
+
+ds-cris-layout-loader ds-cris-layout-matrix {
+    margin-bottom: 50px;
+}
+
+ds-base-object-list ds-listable-object-component-loader {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+ds-search-labels div.labels {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.header-style h1 {
+    font-weight: 400;
+}
+
+ds-footer {
+    margin-top: 50px;
+}
+
+/* 1. Anulamos el float que empuja la imagen a la izquierda */
+.profile-card ds-metadata-render span.float-left {
+    float: none !important;
+    display: block !important; /* Cambiamos a block para que acepte text-align */
+    text-align: center !important; /* Centra el contenido inline (la imagen) */
+    width: 100% !important;
+}
+
+/* 2. Aseguramos que el contenedor de la miniatura no tenga anchos fijos extraños */
+.profile-card .thumbnail.limit-width {
+    display: inline-block !important; /* Para que respete el text-align: center del padre */
+    margin: 0 auto !important;
+}
+
+/* 3. Limpiamos cualquier margen residual de la imagen */
+.profile-card img.thumbnail-content {
+    margin: 0 auto !important;
+    display: inline-block !important; /* Importante para que text-align: center funcione */
+    float: none !important;
+}

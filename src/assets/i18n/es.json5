@@ -2551,7 +2551,7 @@
   // "collection.form.title": "Name",
   "collection.form.title": "Nombre",
 
-  // "collection.form.entityType": "Entity Type",
+  // "collection.form.entityType": "Tipo de entidad",
   "collection.form.entityType": "Tipo de entidad",
 
   // "collection.form.errors.entityType.required": "Please choose an entity type for this collection",
@@ -4047,17 +4047,17 @@
   // TODO New key - Add a translation
   "explore.index.eqtitle": "Title",
 
-  // "explore.index.eqowner": "Researcher",
+  // "explore.index.eqowner": "Investigador",
   // TODO New key - Add a translation
-  "explore.index.eqowner": "Researcher",
+  "explore.index.eqowner": "Investigador",
 
   // "explore.index.eqorgunit": "Organization",
   // TODO New key - Add a translation
   "explore.index.eqorgunit": "Organization",
 
-  // "explore.index.entityType": "Entity type",
+  // "explore.index.entityType": "Tipo de entidad",
   // TODO New key - Add a translation
-  "explore.index.entityType": "Entity type",
+  "explore.index.entityType": "Tipo de entidad",
 
   // "explore.index.familyName": "Family name",
   // TODO New key - Add a translation
@@ -4187,9 +4187,9 @@
   // TODO New key - Add a translation
   "explore.index.pjtitle": "Title",
 
-  // "explore.index.projectinvestigators": "Researcher",
+  // "explore.index.projectinvestigators": "Investigador",
   // TODO New key - Add a translation
-  "explore.index.projectinvestigators": "Researcher",
+  "explore.index.projectinvestigators": "Investigador",
 
   // "explore.index.rodept": "Department",
   // TODO New key - Add a translation
@@ -6601,9 +6601,9 @@
   // TODO New key - Add a translation
   "item-export.cannot-msg": "There are no items to export with the selected configuration",
 
-  // "item-export.form.entityType": "Entity Type",
+  // "item-export.form.entityType": "Tipo de entidad",
   // TODO New key - Add a translation
-  "item-export.form.entityType": "Entity Type",
+  "item-export.form.entityType": "Tipo de entidad",
 
   // "item-export.form.entityType.tip": "Choose the entity type to export",
   // TODO New key - Add a translation
@@ -7101,7 +7101,7 @@
 
   // "menu.section.explore_orgunits": "Organizations",
   // TODO New key - Add a translation
-  "menu.section.explore_orgunits": "Institutos y centros",
+  "menu.section.explore_orgunits": "Institutos y Centros",
 
   // "menu.section.browse_global_by_srsc": "By Subject Category",
   "menu.section.browse_global_by_srsc": "Por categoría",
@@ -9343,13 +9343,13 @@
   // "search.filters.filter.expand": "Expand filter",
   "search.filters.filter.expand": "Expandir filtro",
 
-  // "search.filters.filter.eqowner.head": "Researcher",
+  // "search.filters.filter.eqowner.head": "Investigador",
   // TODO New key - Add a translation
-  "search.filters.filter.eqowner.head": "Researcher",
+  "search.filters.filter.eqowner.head": "Investigador",
 
-  // "search.filters.filter.eqowner.placeholder": "Researcher",
+  // "search.filters.filter.eqowner.placeholder": "Investigador",
   // TODO New key - Add a translation
-  "search.filters.filter.eqowner.placeholder": "Researcher",
+  "search.filters.filter.eqowner.placeholder": "Investigador",
 
   // "search.filters.filter.eqorgunit.head": "Organization",
   // TODO New key - Add a translation
@@ -9399,17 +9399,17 @@
   // "search.filters.filter.itemtype.label": "Search type",
   "search.filters.filter.itemtype.label": "Búsqueda de Tipo",
 
-  // "search.filters.filter.projectinvestigators.head": "Researcher",
+  // "search.filters.filter.projectinvestigators.head": "Investigador",
   // TODO New key - Add a translation
-  "search.filters.filter.projectinvestigators.head": "Researcher",
+  "search.filters.filter.projectinvestigators.head": "Investigador",
 
-  // "search.filters.filter.projectinvestigators.label": "Researcher",
+  // "search.filters.filter.projectinvestigators.label": "Investigador",
   // TODO New key - Add a translation
-  "search.filters.filter.projectinvestigators.label": "Researcher",
+  "search.filters.filter.projectinvestigators.label": "Investigador",
 
-  // "search.filters.filter.projectinvestigators.placeholder": "Researcher",
+  // "search.filters.filter.projectinvestigators.placeholder": "Investigador",
   // TODO New key - Add a translation
-  "search.filters.filter.projectinvestigators.placeholder": "Researcher",
+  "search.filters.filter.projectinvestigators.placeholder": "Investigador",
 
   // "search.filters.filter.jobTitle.head": "Job Title",
   "search.filters.filter.jobTitle.head": "Puesto de trabajo",
@@ -14731,18 +14731,6 @@
   // TODO New key - Add a translation
   "metadata-link-view.popover.label.more-info": "More info",
   // TODO New key - Add a translation
-  "layout.tab.header.Project.details": "Details",
-  // "layout.tab.header.Project.outputs::projectoutputs": "Outputs::Publications",
-  // TODO New key - Add a translation
-  "layout.tab.header.Project.outputs::projectoutputs": "Outputs::Publications",
-  // "layout.tab.header.Project.outputs::fundings": "Outputs::Fundings",
-  // TODO New key - Add a translation
-  "layout.tab.header.Project.outputs::fundings": "Outputs::Fundings",
-  // "layout.tab.header.Journal.details": "Details",
-  // TODO New key - Add a translation
-  "layout.tab.header.Journal.details": "Details",
-  // "layout.tab.header.Event.details": "Details",
-  // TODO New key - Add a translation
   "layout.tab.header.Event.details": "Details",
   // "layout.tab.header.Equipment.details": "Details",
   // TODO New key - Add a translation
@@ -14980,17 +14968,6 @@
   // TODO New key - Add a translation
   "layout.field.label.Funding.[oairecerif.amount]": "Amount",
   // "layout.field.label.Funding.[oairecerif.amount.currency]": "Currency",
-  // TODO New key - Add a translation
-  "layout.field.label.Funding.[oairecerif.amount.currency]": "Currency",
-  // "layout.field.label.Journal.[dc.title]": "Journal Title",
-  // TODO New key - Add a translation
-  "layout.field.label.Journal.[dc.title]": "Journal Title",
-  // "layout.field.label.Journal.[dc.subject]": "Keywords",
-  // TODO New key - Add a translation
-  "layout.field.label.Journal.[dc.subject]": "Keywords",
-  // "layout.field.label.Journal.[dc.identifier.issn]": "ISSN",
-  // TODO New key - Add a translation
-  "layout.field.label.Journal.[dc.identifier.issn]": "ISSN",
 
   // "layout.field.label.Event.[dc.title]": "Title",
   "layout.field.label.Event.[dc.title]": "Título",
@@ -15053,40 +15030,6 @@
   // TODO New key - Add a translation
   "layout.field.label.Equipment.[crisequipment.ownerou]": "Owner Organisation",
 
-  // "layout.field.label.Publication.[dc.relation.ispartof]": "Journal",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.relation.ispartof]": "Journal",
-  // "layout.field.label.Publication.[dc.relation.issn]": "ISSN",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.relation.issn]": "ISSN",
-  // "layout.field.label.Publication.[dc.date.issued]": "Date Issued",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.date.issued]": "Date Issued",
-  // "layout.field.label.Publication.[dc.contributor.author]": "Author(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.contributor.author]": "Author(s)",
-  // "layout.field.label.Publication.[dc.contributor.editor]": "Editor(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.contributor.editor]": "Editor(s)",
-  // "layout.field.label.Publication.[dc.identifier.doi]": "DOI",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.identifier.doi]": "DOI",
-  // "layout.field.label.Publication.[dc.description.abstract]": "Abstract",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.description.abstract]": "Abstract",
-  // "layout.field.label.Publication.[dc.relation.project]": "Project(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.relation.project]": "Project(s)",
-  // "layout.field.label.Publication.[dc.relation.funding]": "Funding(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.relation.funding]": "Funding(s)",
-  // "layout.field.label.Publication.[dc.subject]": "Subjects",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.[dc.subject]": "Subjects",
-  // "layout.field.label.Publication.BITSTREAM": "File(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.BITSTREAM": "File(s)",
-
   // "layout.field.label.Product.[dc.title]": "Title",
   // TODO New key - Add a translation
   "layout.field.label.Product.[dc.title]": "Title",
@@ -15121,72 +15064,16 @@
   // TODO New key - Add a translation
   "layout.field.label.Product.BITSTREAM": "File(s)",
 
-  // "layout.field.label.Patent.[dc.title]": "Title",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.title]": "Title",
-  // "layout.field.label.Patent.[dc.relation.ispartof]": "Journal",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.relation.ispartof]": "Journal",
-  // "layout.field.label.Patent.[dc.relation.issn]": "ISSN",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.relation.issn]": "ISSN",
-  // "layout.field.label.Patent.[dc.date.issued]": "Date Issued",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.date.issued]": "Date Issued",
-  // "layout.field.label.Patent.[dc.contributor.author]": "Author(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.contributor.author]": "Author(s)",
-  // "layout.field.label.Patent.[dc.identifier.patentno]": "DOI",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.identifier.patentno]": "DOI",
-  // "layout.field.label.Patent.[dc.description.abstract]": "Abstract",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.description.abstract]": "Abstract",
-  // "layout.field.label.Patent.[dc.relation.project]": "Project(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.relation.project]": "Project(s)",
-  // "layout.field.label.Patent.[dc.relation.funding]": "Funding(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.relation.funding]": "Funding(s)",
-  // "layout.field.label.Patent.[dc.subject]": "Subjects",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.[dc.subject]": "Subjects",
-  // "layout.field.label.Patent.BITSTREAM": "File(s)",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.BITSTREAM": "File(s)",
-
-
-  // "layout.field.label.Publication.NESTED[dc.contributor.author]": "Author",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.NESTED[dc.contributor.author]": "Author",
-  // "layout.field.label.Publication.NESTED[oairecerif.author.affiliation]": "Affiliation",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.NESTED[oairecerif.author.affiliation]": "Affiliation",
-  // "layout.field.label.Publication.NESTED[dc.contributor.editor]": "Editor",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.NESTED[dc.contributor.editor]": "Editor",
-  // "layout.field.label.Publication.NESTED[oairecerif.editor.affiliation]": "Affiliation",
-  // TODO New key - Add a translation
-  "layout.field.label.Publication.NESTED[oairecerif.editor.affiliation]": "Affiliation",
-
   // "layout.field.label.Product.NESTED[dc.contributor.author]": "Creator",
   // TODO New key - Add a translation
   "layout.field.label.Product.NESTED[dc.contributor.author]": "Creator",
   // "layout.field.label.Product.NESTED[oairecerif.author.affiliation]": "Affiliation",
   // TODO New key - Add a translation
   "layout.field.label.Product.NESTED[oairecerif.author.affiliation]": "Affiliation",
-
-  // "layout.field.label.Patent.NESTED[dc.contributor.author]": "Inventor",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.NESTED[dc.contributor.author]": "Inventor",
-  // "layout.field.label.Patent.NESTED[oairecerif.author.affiliation]": "Affiliation",
-  // TODO New key - Add a translation
-  "layout.field.label.Patent.NESTED[oairecerif.author.affiliation]": "Affiliation",
-
   "info.about.breadcrumbs":"Sobre CRIS",
   "info.about":"Sobre CRIS",
   "menu.section.explore_journals":"Revistas",
-  "menu.section.explore_organizational-units":"Institutos y centros",
+  "menu.section.explore_organizational-units":"Institutos y Centros",
   "explore.counters-section.organizational-units":"Centros",
   "explore.counters-section.patentes":"Patentes",
   "explore.patentes.breadcrumbs":"Patentes",
@@ -15276,8 +15163,8 @@
 "layout.tab.header.Project.details": "Datos Generales",
 "layout.tab.header.Project.bitstreams": "Files",
 "layout.tab.header.Project.projectoutputs": "Publicación",
-"layout.tab.header.Journal.details": "Details",
-"layout.tab.header.Journal.publications": "Publications",
+"layout.tab.header.Journal.details": "Detalles",
+"layout.tab.header.Journal.publications": "Publicaciones",
 "layout.tab.header.Event.details": "Details",
 "layout.tab.header.Equipment.details": "Details",
 "layout.tab.header.Funding.details": "Details",
@@ -15417,20 +15304,20 @@
 "layout.field.label.OrgUnit.organization.address": "Dirección",
 "layout.field.label.OrgUnit.BITSTREAM": "File(s)",
 
-"layout.field.label.Patent.dc.contributor.authors": "Author(s)",
+"layout.field.label.Patent.dc.contributor.authors": "Autor(es)",
 "layout.field.label.Patent.dc.contributor.author": "Investigadores UNIBE",
 "layout.field.label.Patent.dc.contributor.affiliation": "Afiliaciones",
-"layout.field.label.Patent.dc.subject": "Subjects",
-"layout.field.label.Patent.dc.date.issued": "Date Issued",
+"layout.field.label.Patent.dc.subject": "Área de investigación",
+"layout.field.label.Patent.dc.date.issued": "Fecha de creación",
 "layout.field.label.Patent.dc.publisher": "Editorial",
 "layout.field.label.Patent.dc.identifier.citation": "Publicado en",
 "layout.field.label.Patent.dc.description.abstract": "Resumen",
 "layout.field.label.Patent.dc.identifier.uri": "URI",
-"layout.field.label.Patent.dc.relation.ispartof": "Journal",
-"layout.field.label.Patent.dc.relation.project": "Project(s)",
-"layout.field.label.Patent.dc.relation.funding": "Funding(s)",
-"layout.field.label.Patent.dc.relation.patent": "Patent(s)",
-"layout.field.label.Patent.BITSTREAM": "File(s)",
+"layout.field.label.Patent.dc.relation.ispartof": "Revista",
+"layout.field.label.Patent.dc.relation.project": "Proyecto(s)",
+"layout.field.label.Patent.dc.relation.funding": "Financiador",
+"layout.field.label.Patent.dc.relation.patent": "Patente",
+"layout.field.label.Patent.BITSTREAM": "Archivo(s)",
 
 "layout.field.label.Person.crisrp.name": "Nombre",
 "layout.field.label.Person.person.jobTitle": "Posición",
@@ -15476,7 +15363,7 @@
 "layout.field.label.Product.BITSTREAM": "File(s)",
 
 
-"layout.field.label.Project.dc.subject": "Área de investigación:",
+"layout.field.label.Project.dc.subject": "Área de investigación",
 "layout.field.label.Project.dc.subject.classification": "Tema de investigación",
 "layout.field.label.Project.dc.description.abstract": "Descripción",
 "layout.field.label.Project.dc.relation.ispartof": "Área de impacto",
@@ -15488,55 +15375,53 @@
 "layout.field.label.Project.cris.orgunit": "Unidad de investigación",
 "layout.field.label.Project.BITSTREAM": "File(s)",
 
-
-
-
-
-"layout.field.label.Publication.dc.type": "Type",
-"layout.field.label.Publication.dc.typeofaccess": "Access",
-"layout.field.label.Publication.dc.relation.ispartof": "Journal",
-
+"layout.field.label.Publication.dc.type": "Tipo",
+"layout.field.label.Publication.dc.typeofaccess": "Tipo de acceso",
+"layout.field.label.Publication.dc.relation.ispartof": "Revista",
 
 "layout.field.label.Publication.dc.relation.issn": "ISSN",
 "layout.field.label.Publication.dc.description.volume": "Volumen",
-"layout.field.label.Publication.dc.description.issue": "Issue",
-"layout.field.label.Publication.dc.description.pages": "Pages",
-"layout.field.label.Publication.dc.identifier.artno": "Article Number",
-"layout.field.label.Publication.dc.date.issued": "Date Issued",
-"layout.field.label.Publication.dc.identifier.citation": "Citation",
+"layout.field.label.Publication.dc.description.issue": "Número",
+"layout.field.label.Publication.dc.description.pages": "Páginas",
+"layout.field.label.Publication.dc.identifier.artno": "Número de artículo",
+"layout.field.label.Publication.dc.date.issued": "Fecha de publicación",
+"layout.field.label.Publication.dc.identifier.citation": "Cita",
 "layout.field.label.Publication.dc.identifier.doi": "DOI",
 "layout.field.label.Publication.dc.identifier.url": "URL",
-"layout.field.label.Publication.dc.identifier.uri": "Use this identifier to reference this record",
-
-
-"layout.field.label.Publication.dc.subject": "Research area",
-"layout.field.label.Publication.dc.subject.keywords": "Keywords",
-"layout.field.label.Publication.dc.contributor.author": "Researchers (UNIBE)",
-"layout.field.label.Publication.dc.relation": "Project(s)",
-"layout.field.label.Publication.dc.relation.funding": "Funding(s)",
-"layout.field.label.Publication.dc.relation.conference": "Conference(s)",
-"layout.field.label.Publication.dc.description.sponsorship": "Sponsor(s)",
-"layout.field.label.Publication.dc.relation.product": "Related Products",
-
-
+"layout.field.label.Publication.dc.identifier.uri": "Use este identificador para referenciar este registro",
+"layout.field.label.Publication.dc.subject": "Área de investigación",
+"layout.field.label.Publication.dc.subject.keywords": "Palabras clave",
+"layout.field.label.Publication.dc.contributor.author": "Investigadores (UNIBE)",
+"layout.field.label.Publication.dc.relation": "Proyecto(s)",
+"layout.field.label.Publication.dc.relation.funding": "Financiamiento(s)",
+"layout.field.label.Publication.dc.relation.conference": "Conferencia(s)",
+"layout.field.label.Publication.dc.description.sponsorship": "Patrocinador(es)",
+"layout.field.label.Publication.dc.relation.product": "Productos relacionados",
+"layout.field.label.Publication.dc.description.abstract": "Resumen",
+"layout.field.label.Publication.dc.description": "Información adicional",
+"layout.field.label.Publication.dc.contributor.authors": "Autores",
+"layout.field.label.Publication.dc.contributor.author": "Investigador UNIBE",
+"layout.field.label.Publication.dc.contributor.affiliation": "Afiliación",
+"layout.field.label.Publication.dc.contributor.editor": "Editor",
+"layout.field.label.Publication.oairecerif.editor.affiliation": "Afiliación",
+"layout.field.label.Publication.NESTED[dc.contributor.author]": "Investigador UNIBE",
+"layout.field.label.Publication.NESTED[oairecerif.author.affiliation]": "Afiliación",
+"layout.field.label.Publication.NESTED[dc.contributor.editor]": "Editor",
+"layout.field.label.Publication.NESTED[oairecerif.editor.affiliation]": "Afiliación",
 
 "layout.field.label.Journal.dc.identifier.issn": "ISSN",
 "layout.field.label.Journal.dc.description.indexing": "Indizada",
 "layout.field.label.Journal.dc.coverage.spatial": "Bases de datos",
 "layout.field.label.Journal.dc.description.rank": "Q-Rank",
 "layout.field.label.Journal.dc.source": "Fuente",
+"layout.field.label.Journal.dc.description.abstract": "Descripción",
 "layout.field.label.Person.person.sameas": "Connected Papers",
-"layout.field.label.Journal.dc.description.abstract": "Description",
 "layout.field.label.Project.project.name": "Nombre del fondo",
 "layout.field.label.Project.project.identifier": "Código",
 "layout.field.label.Project.project.funder.name": "Organismo financiador",
 "layout.field.label.Project.project.grant.type": "Tipo de financiamiento",
 "layout.field.label.Project.project.amount": "Monto",
 "layout.field.label.Project.dc.relation.ispartof": "Área de impacto",
-
-"layout.field.label.Publication.dc.description.abstract": "Abstract",
-"layout.field.label.Publication.dc.description": "Additional information",
-"layout.field.label.Publication.dc.contributor.authors": "Autores",
 
 
 "layout.field.label.Person.oairecerif.affiliation.role": "Role",
@@ -15550,16 +15435,10 @@
 "layout.field.label.Person.crisrp.qualification": "Title",
 "layout.field.label.Person.crisrp.qualification.start": "Start",
 "layout.field.label.Person.crisrp.qualification.end": "End",
-"layout.field.label.Publication.dc.contributor.author": "Investigador UNIBE",
-"layout.field.label.Publication.dc.contributor.affiliation": "Affiliation",
-"layout.field.label.Publication.dc.contributor.editor": "Editor",
-"layout.field.label.Publication.oairecerif.editor.affiliation": "Affiliation",
 "layout.field.label.Product.dc.contributor.author": "Creator",
-"layout.field.label.Product.oairecerif.author.affiliation": "Affiliation",
+"layout.field.label.Product.oairecerif.author.affiliation": "Afiliación",
 "layout.field.label.Patent.dc.contributor.author": "Inventor",
-"layout.field.label.Patent.oairecerif.author.affiliation": "Affiliation",
-"layout.field.label.Publication.dc.date.issued": "",
-"layout.field.label.Publication.dc.relation.ispartof": "",
+"layout.field.label.Patent.oairecerif.author.affiliation": "Afiliación",
 "submission.sections.submit.progressbar.describe.project_impactdata":"Impacto",
 "submission.sections.submit.progressbar.describe.project_funding":"Financiación",
 "":"",
