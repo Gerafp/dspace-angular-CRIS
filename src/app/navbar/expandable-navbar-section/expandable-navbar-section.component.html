@@ -33,5 +33,12 @@
           *ngComponentOutlet="(sectionMap$ | async).get(subSection.id).component; injector: (sectionMap$ | async).get(subSection.id).injector;"></ng-container>
       </div>
     </div>
+    <a role="menuitem" 
+      routerLink="/info/statistics"
+      href="/info/statistics"
+      class="ds-menu-item"
+      (click)="$event.stopPropagation()">
+      {{ 'info.statistics.title' | translate }}
+    </a>
   </div>
 </div>

@@ -90,15 +90,15 @@
 
   // "admin.edit-user-agreement.breadcrumbs": "Edit User Agreement",
   // TODO New key - Add a translation
-  "admin.edit-user-agreement.breadcrumbs": "Edit User Agreement",
+  "admin.edit-user-agreement.breadcrumbs": "Editar acuerdo de usuario",
 
   // "admin.edit-user-agreement.confirm.title": "Force acceptance",
   // TODO New key - Add a translation
-  "admin.edit-user-agreement.confirm.title": "Force acceptance",
+  "admin.edit-user-agreement.confirm.title": "Forzar aceptación",
 
   // "admin.edit-user-agreement.confirm.info": "Do you want to force all users to accept the new user agreement?",
   // TODO New key - Add a translation
-  "admin.edit-user-agreement.confirm.info": "Do you want to force all users to accept the new user agreement?",
+  "admin.edit-user-agreement.confirm.info": "¿Desea obligar a todos los usuarios a aceptar el nuevo acuerdo de usuario?",
 
   // "admin.edit-user-agreement.confirm.cancel": "Cancel",
   // TODO New key - Add a translation
@@ -106,15 +106,15 @@
 
   // "admin.edit-user-agreement.confirm.no": "No, update only",
   // TODO New key - Add a translation
-  "admin.edit-user-agreement.confirm.no": "No, update only",
+  "admin.edit-user-agreement.confirm.no": "No, solo actualizar",
 
   // "admin.edit-user-agreement.confirm.yes": "Yes, update and force",
   // TODO New key - Add a translation
-  "admin.edit-user-agreement.confirm.yes": "Yes, update and force",
+  "admin.edit-user-agreement.confirm.yes": "Sí, actualizar y forzar",
 
   // "admin.edit-user-agreement.save-button": "Save",
   // TODO New key - Add a translation
-  "admin.edit-user-agreement.save-button": "Save",
+  "admin.edit-user-agreement.save-button": "Guardar",
 
   // "admin.edit-user-agreement.header": "Edit User Agreement",
   // TODO New key - Add a translation
@@ -190,7 +190,7 @@
 
   // "admin.institution.new.name": "Name",
   // TODO New key - Add a translation
-  "admin.institution.new.name": "Name",
+  "admin.institution.new.name": "Nombre",
 
   // "admin.institution.new.processing": "Loading",
   // TODO New key - Add a translation
@@ -803,7 +803,7 @@
 
   // "admin.access-control.groups.table.type": "Type",
   // TODO New key - Add a translation
-  "admin.access-control.groups.table.type": "Type",
+  "admin.access-control.groups.table.type": "Tipo",
 
   // "admin.access-control.groups.table.status": "Status",
   // TODO New key - Add a translation
@@ -856,7 +856,7 @@
 
   // "admin.access-control.groups.form.groupType": "Type",
   // TODO New key - Add a translation
-  "admin.access-control.groups.form.groupType": "Type",
+  "admin.access-control.groups.form.groupType": "Tipo",
 
   // "admin.access-control.groups.form.groupType.institutional": "Institutional Role type",
   // TODO New key - Add a translation
@@ -1957,34 +1957,34 @@
 
   // "browse.metadata.eqtitle": "Title",
   // TODO New key - Add a translation
-  "browse.metadata.eqtitle": "Title",
+  "browse.metadata.eqtitle": "Título",
 
   // "browse.metadata.ouname": "Name",
   // TODO New key - Add a translation
-  "browse.metadata.ouname": "Name",
+  "browse.metadata.ouname": "Nombre",
 
   // "browse.metadata.pjtitle": "Title",
   // TODO New key - Add a translation
-  "browse.metadata.pjtitle": "Title",
+  "browse.metadata.pjtitle": "Título",
 
   // "browse.metadata.rodept": "Department",
   // TODO New key - Add a translation
-  "browse.metadata.rodept": "Department",
+  "browse.metadata.rodept": "Departamento",
 
   // "browse.metadata.rpdept": "Department",
   // TODO New key - Add a translation
-  "browse.metadata.rpdept": "Department",
+  "browse.metadata.rpdept": "Departamento",
 
   // "browse.metadata.rpname": "Name",
   // TODO New key - Add a translation
-  "browse.metadata.rpname": "Name",
+  "browse.metadata.rpname": "Nombre",
 
   // "browse.metadata.subject": "Subject",
   "browse.metadata.subject": "Materia",
 
   // "browse.metadata.type": "Type",
   // TODO New key - Add a translation
-  "browse.metadata.type": "Type",
+  "browse.metadata.type": "Tipo",
 
   // "browse.metadata.title": "Title",
   "browse.metadata.title": "Título",
@@ -2012,27 +2012,27 @@
 
   // "browse.metadata.eqtitle.breadcrumbs": "Browse by Title",
   // TODO New key - Add a translation
-  "browse.metadata.eqtitle.breadcrumbs": "Browse by Title",
+  "browse.metadata.eqtitle.breadcrumbs": "Examinar por título",
 
   // "browse.metadata.ouname.breadcrumbs": "Browse by Name",
   // TODO New key - Add a translation
-  "browse.metadata.ouname.breadcrumbs": "Browse by Name",
+  "browse.metadata.ouname.breadcrumbs": "Examinar por nombre",
 
   // "browse.metadata.pjtitle.breadcrumbs": "Browse by Title",
   // TODO New key - Add a translation
-  "browse.metadata.pjtitle.breadcrumbs": "Browse by Title",
+  "browse.metadata.pjtitle.breadcrumbs": "Examinar por título",
 
   // "browse.metadata.rodept.breadcrumbs": "Browse by Department",
   // TODO New key - Add a translation
-  "browse.metadata.rodept.breadcrumbs": "Browse by Department",
+  "browse.metadata.rodept.breadcrumbs": "Examinar por departamento",
 
   // "browse.metadata.rpdept.breadcrumbs": "Browse by Department",
   // TODO New key - Add a translation
-  "browse.metadata.rpdept.breadcrumbs": "Browse by Department",
+  "browse.metadata.rpdept.breadcrumbs": "Examinar por departamento",
 
   // "browse.metadata.rpname.breadcrumbs": "Browse by Name",
   // TODO New key - Add a translation
-  "browse.metadata.rpname.breadcrumbs": "Browse by Name",
+  "browse.metadata.rpname.breadcrumbs": "Examinar por nombre",
 
   // "browse.metadata.subject.breadcrumbs": "Browse by Subject",
   "browse.metadata.subject.breadcrumbs": "Examinar por materia",
@@ -2051,7 +2051,7 @@
 
   // "browse.metadata.type.breadcrumbs": "Browse by Type",
   // TODO New key - Add a translation
-  "browse.metadata.type.breadcrumbs": "Browse by Type",
+  "browse.metadata.type.breadcrumbs": "Examinar por tipo",
 
   // "browse.metadata.title.breadcrumbs": "Browse by Title",
   "browse.metadata.title.breadcrumbs": "Examinar por título",
@@ -2603,7 +2603,7 @@
 
   // "collection.search.breadcrumbs": "Search",
   // TODO New key - Add a translation
-  "collection.search.breadcrumbs": "Search",
+  "collection.search.breadcrumbs": "Buscar",
 
   // "collection.search.results.head": "Search Results",
   "collection.search.results.head": "Resultados de la búsqueda",
@@ -2699,16 +2699,16 @@
   "collection.source.update.notifications.error.content": "La configuración proporcionada se ha probado y no funcionó.",
 
   // "collection.source.update.notifications.error.title": "Server Error",
-  "collection.source.update.notifications.error.title": "Error del Servidor",
+  "collection.source.update.notifications.error.title": "Error del servidor",
 
   // "communityList.breadcrumbs": "Community List",
-  "communityList.breadcrumbs": "Lista de comunidades",
+  "communityList.breadcrumbs": "Comunidades y colecciones",
 
   // "communityList.tabTitle": "Community List",
   "communityList.tabTitle": "Lista de comunidades",
 
   // "communityList.title": "List of Communities",
-  "communityList.title": "Lista de Comunidades",
+  "communityList.title": "Lista de comunidades",
 
   // "communityList.showMore": "Show More",
   "communityList.showMore": "Mostrar más",
@@ -2952,7 +2952,7 @@
 
   // "community.page.browse.search.head": "Search",
   // TODO New key - Add a translation
-  "community.page.browse.search.head": "Search",
+  "community.page.browse.search.head": "Buscar",
 
   // "community.page.handle": "Permanent URI for this community",
   "community.page.handle": "URI permanente para esta comunidad",
@@ -2968,7 +2968,7 @@
 
   // "community.search.breadcrumbs": "Search",
   // TODO New key - Add a translation
-  "community.search.breadcrumbs": "Search",
+  "community.search.breadcrumbs": "Buscar",
 
   // "community.search.results.head": "Search Results",
   "community.search.results.head": "Resultados de la búsqueda",
@@ -2982,11 +2982,11 @@
 
   // "context-menu.actions": "Actions",
   // TODO New key - Add a translation
-  "context-menu.actions": "Actions",
+  "context-menu.actions": "Acciones",
 
   // "context-menu.actions.audit-item.btn": "Audit",
   // TODO New key - Add a translation
-  "context-menu.actions.audit-item.btn": "Audit",
+  "context-menu.actions.audit-item.btn": "Auditar",
 
   // "context-menu.actions.bulk-import.btn": "Import items into collection",
   // TODO New key - Add a translation
@@ -2994,35 +2994,35 @@
 
   // "context-menu.actions.claim.btn": "Claim this profile",
   // TODO New key - Add a translation
-  "context-menu.actions.claim.btn": "Claim this profile",
+  "context-menu.actions.claim.btn": "Reclamar este perfil",
 
   // "context-menu.actions.export-item.btn": "Export",
   // TODO New key - Add a translation
-  "context-menu.actions.export-item.btn": "Export",
+  "context-menu.actions.export-item.btn": "Exportar",
 
   // "context-menu.actions.label": "Options",
   // TODO New key - Add a translation
-  "context-menu.actions.label": "Options",
+  "context-menu.actions.label": "Opciones",
 
   // "context-menu.actions.show-all-metadata": "Show all metadata (technical view)",
   // TODO New key - Add a translation
-  "context-menu.actions.show-all-metadata": "Show all metadata (technical view)",
+  "context-menu.actions.show-all-metadata": "Mostrar todos los metadatos (technical view)",
 
   // "context-menu.actions.edit-item.btn.FULL": "Edit all the details",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item.btn.FULL": "Edit all the details",
+  "context-menu.actions.edit-item.btn.FULL": "Editar todos los detalles",
 
   // "context-menu.actions.edit-item.btn.OWNER": "Edit",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item.btn.OWNER": "Edit",
+  "context-menu.actions.edit-item.btn.OWNER": "Editar",
 
   // "context-menu.actions.edit-item.btn.DIRECTOR": "Edit",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item.btn.DIRECTOR": "Edit",
+  "context-menu.actions.edit-item.btn.DIRECTOR": "Editar",
 
   // "context-menu.actions.edit-item.btn.INVESTIGATOR": "Edit",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item.btn.INVESTIGATOR": "Edit",
+  "context-menu.actions.edit-item.btn.INVESTIGATOR": "Editar",
 
   // "context-menu.actions.request-correction.btn": "Request a correction",
   // TODO New key - Add a translation
@@ -3030,11 +3030,11 @@
 
   // "context-menu.actions.request-correction.confirm.cancel": "Cancel",
   // TODO New key - Add a translation
-  "context-menu.actions.request-correction.confirm.cancel": "Cancel",
+  "context-menu.actions.request-correction.confirm.cancel": "Cancelar",
 
   // "context-menu.actions.request-correction.confirm.submit": "Yes, I'm sure",
   // TODO New key - Add a translation
-  "context-menu.actions.request-correction.confirm.submit": "Yes, I'm sure",
+  "context-menu.actions.request-correction.confirm.submit": "Sí, seguro",
 
   // "context-menu.actions.request-correction.error.403": "You are not authorized, impossible to proceed with the operation.",
   // TODO New key - Add a translation
@@ -3058,15 +3058,15 @@
 
   // "context-menu.actions.dso-page-edit.COMMUNITY.btn": "Administer",
   // TODO New key - Add a translation
-  "context-menu.actions.dso-page-edit.COMMUNITY.btn": "Administer",
+  "context-menu.actions.dso-page-edit.COMMUNITY.btn": "Administrar",
 
-  // "context-menu.actions.dso-page-edit.COLLECTION.btn": "Administer",
+  // "context-menu.actions.dso-page-edit.COLLECTION.btn": "Administrar",
   // TODO New key - Add a translation
-  "context-menu.actions.dso-page-edit.COLLECTION.btn": "Administer",
+  "context-menu.actions.dso-page-edit.COLLECTION.btn": "Administrar",
 
   // "context-menu.actions.dso-page-edit.ITEM.btn": "Administer",
   // TODO New key - Add a translation
-  "context-menu.actions.dso-page-edit.ITEM.btn": "Administer",
+  "context-menu.actions.dso-page-edit.ITEM.btn": "Administrar",
 
   // "context-menu.actions.edit-item-relationships.btn.fundings": "Manage Fundings",
   // TODO New key - Add a translation
@@ -3078,19 +3078,19 @@
 
   // "context-menu.actions.edit-item-relationships.btn.organizations": "Manage SubOrganizations",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item-relationships.btn.organizations": "Manage SubOrganizations",
+  "context-menu.actions.edit-item-relationships.btn.organizations": "Gestionar subcentros",
 
   // "context-menu.actions.edit-item-relationships.btn.rppublications": "Manage Researchers Publications",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item-relationships.btn.rppublications": "Manage Researchers Publications",
+  "context-menu.actions.edit-item-relationships.btn.rppublications": "Gestionar investigadores",
 
   // "context-menu.actions.edit-item-relationships.btn.publications": "Manage Publications",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item-relationships.btn.publications": "Manage Publications",
+  "context-menu.actions.edit-item-relationships.btn.publications": "Gestionar publicaciones",
 
   // "context-menu.actions.edit-item-relationships.btn.rpprojects": "Manage Researchers Projects",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item-relationships.btn.rpprojects": "Manage Researchers Projects",
+  "context-menu.actions.edit-item-relationships.btn.rpprojects": "Gestionar investigadores de los proyectos",
 
   // "context-menu.actions.edit-item-relationships.btn.people": "Manage People",
   // TODO New key - Add a translation
@@ -3098,7 +3098,7 @@
 
   // "context-menu.actions.edit-item-relationships.btn.projects": "Manage Projects",
   // TODO New key - Add a translation
-  "context-menu.actions.edit-item-relationships.btn.projects": "Manage Projects",
+  "context-menu.actions.edit-item-relationships.btn.projects": "Gestionar proyectos",
 
   // "context-menu.actions.orcid-view": "Open ORCID setting page",
   // TODO New key - Add a translation
@@ -3106,7 +3106,7 @@
 
   // "context-menu.actions.statistics.btn": "Statistics",
   // TODO New key - Add a translation
-  "context-menu.actions.statistics.btn": "Statistics",
+  "context-menu.actions.statistics.btn": "Estadistícas",
 
   // "context-menu.actions.subscription.title": "Subscription",
   // TODO New key - Add a translation
@@ -3134,7 +3134,7 @@
 
   // "context-menu.actions.subscription.statistics": "Statistics",
   // TODO New key - Add a translation
-  "context-menu.actions.subscription.statistics": "Statistics",
+  "context-menu.actions.subscription.statistics": "Estadistícas",
 
   // "context-menu.actions.subscription.content+statistics": "Content & Statistics",
   // TODO New key - Add a translation
@@ -3178,7 +3178,7 @@
 
   // "RELATION.OrgUnit.organizations.search.results.head": "Organizations",
   // TODO New key - Add a translation
-  "RELATION.OrgUnit.organizations.search.results.head": "Organizations",
+  "RELATION.OrgUnit.organizations.search.results.head": "Centros",
 
   // "RELATION.OrgUnit.rppublications.search.results.head": "Researchers Publications",
   // TODO New key - Add a translation
@@ -3397,7 +3397,7 @@
 
   // "cris-layout.advanced-attachment.dc.title": "Name",
   // TODO New key - Add a translation
-  "cris-layout.advanced-attachment.dc.title": "Name",
+  "cris-layout.advanced-attachment.dc.title": "Nombre",
 
   // "cris-layout.advanced-attachment.size": "Size",
   // TODO New key - Add a translation
@@ -3417,7 +3417,7 @@
 
   // "cris-layout.advanced-attachment.dc.type": "Type",
   // TODO New key - Add a translation
-  "cris-layout.advanced-attachment.dc.type": "Type",
+  "cris-layout.advanced-attachment.dc.type": "Tipo",
 
   // "cris-layout.advanced-attachment.dc.description": "Description",
   // TODO New key - Add a translation
@@ -3964,7 +3964,7 @@
 
   // "explore.browse-section.title": "Browse",
   // TODO New key - Add a translation
-  "explore.browse-section.title": "Browse",
+  "explore.browse-section.title": "Examinar",
 
   // "explore.counters-section.rprofiles": "People",
   // TODO New key - Add a translation
@@ -3980,15 +3980,15 @@
 
   // "explore.facet-section.title": "Discover",
   // TODO New key - Add a translation
-  "explore.facet-section.title": "Discover",
+  "explore.facet-section.title": "Descubre",
 
   // "explore.index.all": "All",
   // TODO New key - Add a translation
-  "explore.index.all": "All",
+  "explore.index.all": "Todo",
 
   // "explore.index.author": "Author",
   // TODO New key - Add a translation
-  "explore.index.author": "Author",
+  "explore.index.author": "Autor",
 
   // "explore.index.graphitemtype": "Graph by type",
   // TODO New key - Add a translation
@@ -4025,11 +4025,11 @@
 
   // "explore.index.dateIssued": "Date issued",
   // TODO New key - Add a translation
-  "explore.index.dateIssued": "Date issued",
+  "explore.index.dateIssued": "Fecha de publicación",
 
   // "explore.index.dateissued": "Date issued",
   // TODO New key - Add a translation
-  "explore.index.dateissued": "Date issued",
+  "explore.index.dateissued": "Fecha de publicación",
 
   // "explore.index.dc.date.accessioned": "Recent Additions",
   // TODO New key - Add a translation
@@ -4037,7 +4037,7 @@
 
   // "explore.index.dc.title": "Title",
   // TODO New key - Add a translation
-  "explore.index.dc.title": "Title",
+  "explore.index.dc.title": "Título",
 
   // "explore.index.editor": "Editor",
   // TODO New key - Add a translation
@@ -4045,7 +4045,7 @@
 
   // "explore.index.eqtitle": "Title",
   // TODO New key - Add a translation
-  "explore.index.eqtitle": "Title",
+  "explore.index.eqtitle": "Título",
 
   // "explore.index.eqowner": "Investigador",
   // TODO New key - Add a translation
@@ -4073,7 +4073,7 @@
 
   // "explore.index.has_content_in_original_bundle": "Has content in original bundle",
   // TODO New key - Add a translation
-  "explore.index.has_content_in_original_bundle": "Has content in original bundle",
+  "explore.index.has_content_in_original_bundle": "Tiene archivos",
 
   // "explore.index.isAuthorOfPublication": "Publication's author",
   // TODO New key - Add a translation
@@ -4173,19 +4173,18 @@
 
   // "explore.index.ouname": "Name",
   // TODO New key - Add a translation
-  "explore.index.ouname": "Name",
+  "explore.index.ouname": "Nombre",
 
   // "explore.index.projectOrgUnits": "Organizations",
   // TODO New key - Add a translation
-  "explore.index.projectOrgUnits": "Organizations",
+  "explore.index.projectOrgUnits": "Departamento",
 
   // "explore.index.personOrgUnits": "Organizations",
-  // TODO New key - Add a translation
-  "explore.index.personOrgUnits": "Organizations",
+  "explore.index.personOrgUnits": "Organizaciones",
 
   // "explore.index.pjtitle": "Title",
   // TODO New key - Add a translation
-  "explore.index.pjtitle": "Title",
+  "explore.index.pjtitle": "Título",
 
   // "explore.index.projectinvestigators": "Investigador",
   // TODO New key - Add a translation
@@ -4193,31 +4192,31 @@
 
   // "explore.index.rodept": "Department",
   // TODO New key - Add a translation
-  "explore.index.rodept": "Department",
+  "explore.index.rodept": "Departamento",
 
   // "explore.index.rpdept": "Department",
   // TODO New key - Add a translation
-  "explore.index.rpdept": "Department",
+  "explore.index.rpdept": "Departamento",
 
   // "explore.index.rpname": "Name",
   // TODO New key - Add a translation
-  "explore.index.rpname": "Name",
+  "explore.index.rpname": "Nombre",
 
   // "explore.index.subject": "Subject",
   // TODO New key - Add a translation
-  "explore.index.subject": "Subject",
+  "explore.index.subject": "Area de investigación",
 
   // "explore.index.title": "Title",
   // TODO New key - Add a translation
-  "explore.index.title": "Title",
+  "explore.index.title": "Título",
 
   // "explore.index.type": "Type",
   // TODO New key - Add a translation
-  "explore.index.type": "Type",
+  "explore.index.type": "Tipo",
 
   // "explore.index.rsoTitle": "Title",
   // TODO New key - Add a translation
-  "explore.index.rsoTitle": "Title",
+  "explore.index.rsoTitle": "Título",
 
   // "explore.search-section.infrastructure.title": "Infrastructure",
   // TODO New key - Add a translation
@@ -4225,15 +4224,15 @@
 
   // "explore.search-section.fundings.title": "Search Projects",
   // TODO New key - Add a translation
-  "explore.search-section.fundings.title": "Search Projects",
+  "explore.search-section.fundings.title": "Buscar proyectos",
 
   // "explore.search-section.fundings_and_projects.title": "Search Projects",
   // TODO New key - Add a translation
-  "explore.search-section.fundings_and_projects.title": "Search Projects",
+  "explore.search-section.fundings_and_projects.title": "Buscar proyectos",
 
   // "explore.search-section.orgunits.title": "Search Organizations",
   // TODO New key - Add a translation
-  "explore.search-section.orgunits.title": "Buscar Centros",
+  "explore.search-section.orgunits.title": "Buscar centros",
 
   // "explore.search-section.publications.title": "Search Research Outputs",
   // TODO New key - Add a translation
@@ -4249,7 +4248,7 @@
 
   // "explore.search-section.search-button": "Search",
   // TODO New key - Add a translation
-  "explore.search-section.search-button": "Search",
+  "explore.search-section.search-button": "Buscar",
 
   // "explore.search-section.reset-button": "Reset",
   // TODO New key - Add a translation
@@ -4273,7 +4272,7 @@
 
   // "explore.orgunits.breadcrumbs": "Organizations",
   // TODO New key - Add a translation
-  "explore.orgunits.breadcrumbs": "Organizations",
+  "explore.orgunits.breadcrumbs": "Centros",
 
   // "explore.publications.breadcrumbs": "Research Outputs",
   // TODO New key - Add a translation
@@ -4285,11 +4284,11 @@
 
   // "explore.researcherprofiles.breadcrumbs": "People",
   // TODO New key - Add a translation
-  "explore.researcherprofiles.breadcrumbs": "People",
+  "explore.researcherprofiles.breadcrumbs": "Investigadores",
 
   // "browse.metadata.rsoTitle.breadcrumbs": "Browse by Title",
   // TODO New key - Add a translation
-  "browse.metadata.rsoTitle.breadcrumbs": "Browse by Title",
+  "browse.metadata.rsoTitle.breadcrumbs": "Examinar por título",
 
   // "explore.title": "Explore section",
   // TODO New key - Add a translation
@@ -4794,7 +4793,7 @@
   "home.breadcrumbs": "Inicio",
 
   // "home.search-form.placeholder": "Search the repository ...",
-  "home.search-form.placeholder": "Buscar en el repositorio ...",
+  "home.search-form.placeholder": "Buscar...",
 
   // "home.title": "Home",
   "home.title": "Inicio",
@@ -7907,7 +7906,7 @@
   "orgunit.page.ror": "Identificador ROR",
 
   // "orgunit.search.results.head": "Organizational Unit Search Results",
-  "orgunit.search.results.head": "Resultados de búsqueda de unidades organizativas",
+  "orgunit.search.results.head": "Resultados de búsqueda de Institutos y Centros",
 
   // "pagination.options.description": "Pagination options",
   "pagination.options.description": "Opciones de paginación",
@@ -9017,7 +9016,7 @@
   "search.breadcrumbs": "Buscar",
 
   // "search.search-form.placeholder": "Search the repository ...",
-  "search.search-form.placeholder": "Buscar en el repositorio ...",
+  "search.search-form.placeholder": "Buscar",
 
   // "search.filters.remove": "Remove filter of type {{ type }} with value {{ value }}",
   "search.filters.remove": "Eliminar filtro de tipo {{ type }} con valor {{ value }}",
@@ -9065,22 +9064,22 @@
 
   // "search.filters.applied.f.language": "Language",
   // TODO New key - Add a translation
-  "search.filters.applied.f.language": "Language",
+  "search.filters.applied.f.language": "Idioma",
 
   // "search.filters.applied.f.namedresourcetype": "Status",
   "search.filters.applied.f.namedresourcetype": "Estado",
 
   // "search.filters.applied.f.personorgunits": "Organisation",
   // TODO New key - Add a translation
-  "search.filters.applied.f.personorgunits": "Organisation",
+  "search.filters.applied.f.personorgunits": "Organización",
 
   // "search.filters.applied.f.personOrgUnits": "Organisation",
   // TODO New key - Add a translation
-  "search.filters.applied.f.personOrgUnits": "Organisation",
+  "search.filters.applied.f.personOrgUnits": "Organización",
 
   // "search.filters.applied.f.projectorgunits": "Organisation",
   // TODO New key - Add a translation
-  "search.filters.applied.f.projectorgunits": "Organisation",
+  "search.filters.applied.f.projectorgunits": "Organización",
 
   // "search.filters.applied.f.subject": "Subject",
   "search.filters.applied.f.subject": "Tema",
@@ -9105,83 +9104,83 @@
 
   // "search.filters.applied.f.graphitemtype": "Item type",
   // TODO New key - Add a translation
-  "search.filters.applied.f.graphitemtype": "Item type",
+  "search.filters.applied.f.graphitemtype": "Tipo",
 
   // "search.filters.applied.f.graphpubldate": "Public date",
   // TODO New key - Add a translation
-  "search.filters.applied.f.graphpubldate": "Public date",
+  "search.filters.applied.f.graphpubldate": "Fecha pública",
 
   // "search.filters.applied.f.graphpubldateltr": "Public date LTR",
   // TODO New key - Add a translation
-  "search.filters.applied.f.graphpubldateltr": "Public date LTR",
+  "search.filters.applied.f.graphpubldateltr": "Fecha pública LTR",
 
   // "search.filters.applied.f.graphpubldatetrl": "Public date RTL",
   // TODO New key - Add a translation
-  "search.filters.applied.f.graphpubldatetrl": "Public date RTL",
+  "search.filters.applied.f.graphpubldatetrl": "Fecha pública RTL",
 
   // "search.filters.applied.f.organization": "Organisation",
   // TODO New key - Add a translation
-  "search.filters.applied.f.organization": "Organisation",
+  "search.filters.applied.f.organization": "Organización",
 
   // "search.filters.applied.charts.defaultConfiguration.title": "Search Output",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.defaultConfiguration.title": "Search Output",
+  "search.filters.applied.charts.defaultConfiguration.title": "Resultados de la búsqueda",
 
   // "search.filters.applied.charts.chart.bar.dateIssued.year.tab": "Date Issued",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.chart.bar.dateIssued.year.tab": "Date Issued",
+  "search.filters.applied.charts.chart.bar.dateIssued.year.tab": "Fecha de publicación",
 
   // "search.filters.applied.charts.chart.pie.more-value": "More",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.chart.pie.more-value": "More",
+  "search.filters.applied.charts.chart.pie.more-value": "Más",
 
   // "search.filters.applied.charts.chart.pie.itemtype_filter.tab": "Item Type",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.chart.pie.itemtype_filter.tab": "Item Type",
+  "search.filters.applied.charts.chart.pie.itemtype_filter.tab": "Tipo",
 
   // "search.filters.applied.charts.graphitemtype.tab": "Visualization by Type",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.graphitemtype.tab": "Visualization by Type",
+  "search.filters.applied.charts.graphitemtype.tab": "Visualización por tipo",
 
   // "search.filters.applied.charts.graphpubldate.tab": "Visualization by Date",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.graphpubldate.tab": "Visualization by Date",
+  "search.filters.applied.charts.graphpubldate.tab": "Visualización por año",
 
   // "search.filters.applied.charts.graphpubldateltr.tab": "Visualization Demo LTR",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.graphpubldateltr.tab": "Visualization Demo LTR",
+  "search.filters.applied.charts.graphpubldateltr.tab": "Visualización Demo LTR",
 
   // "search.filters.applied.charts.graphpubldatetrl.tab": "Visualization Demo RTL",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.graphpubldatetrl.tab": "Visualization Demo RTL",
+  "search.filters.applied.charts.graphpubldatetrl.tab": "Visualización Demo RTL",
 
   // "search.filters.applied.charts.default.title": "Search Output",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.default.title": "Search Output",
+  "search.filters.applied.charts.default.title": "Resultados de la búsqueda",
 
   // "search.filters.applied.charts.site.title": "Search Output",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.site.title": "Search Output",
+  "search.filters.applied.charts.site.title": "Resultados de la búsqueda",
 
   // "search.filters.applied.charts.RELATION.Person.researchoutputs.title": "Research Output",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.RELATION.Person.researchoutputs.title": "Research Output",
+  "search.filters.applied.charts.RELATION.Person.researchoutputs.title": "Resultados de la búsqueda",
 
   // "search.filters.applied.charts.RELATION.Project.fundings.title": "Fundings",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.RELATION.Project.fundings.title": "Fundings",
+  "search.filters.applied.charts.RELATION.Project.fundings.title": "Financiamientos",
 
   // "search.filters.applied.charts.RELATION.Project.researchoutputs.title": "Research Output",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.RELATION.Project.researchoutputs.title": "Research Output",
+  "search.filters.applied.charts.RELATION.Project.researchoutputs.title": "Resultados de la búsqueda",
 
   // "search.filters.applied.charts.no.data.found": "No data found",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.no.data.found": "No data found",
+  "search.filters.applied.charts.no.data.found": "No se encontraron datos",
 
   // "search.filters.applied.charts.show.hide": "Show/Hide",
   // TODO New key - Add a translation
-  "search.filters.applied.charts.show.hide": "Show/Hide",
+  "search.filters.applied.charts.show.hide": "Mostrar/Ocultar",
 
 
 
@@ -9443,19 +9442,19 @@
 
   // "search.filters.filter.projectOrgUnits.head": "Organizations",
   // TODO New key - Add a translation
-  "search.filters.filter.projectOrgUnits.head": "Organizations",
+  "search.filters.filter.projectOrgUnits.head": "Departamento",
 
   // "search.filters.filter.projectOrgUnits.label": "Organizations",
   // TODO New key - Add a translation
-  "search.filters.filter.projectOrgUnits.label": "Organizations",
+  "search.filters.filter.projectOrgUnits.label": "Departamento",
 
   // "search.filters.filter.projectOrgUnits.placeholder": "Organizations",
   // TODO New key - Add a translation
-  "search.filters.filter.projectOrgUnits.placeholder": "Organizations",
+  "search.filters.filter.projectOrgUnits.placeholder": "",
 
   // "search.filters.filter.personOrgUnits.head": "Organizations",
   // TODO New key - Add a translation
-  "search.filters.filter.personOrgUnits.head": "Organizations",
+  "search.filters.filter.personOrgUnits.head": "Departamento",
 
   // "search.filters.filter.personOrgUnits.label": "Search organizations",
   // TODO New key - Add a translation
@@ -9463,7 +9462,7 @@
 
   // "search.filters.filter.personOrgUnits.placeholder": "Organizations",
   // TODO New key - Add a translation
-  "search.filters.filter.personOrgUnits.placeholder": "Organizations",
+  "search.filters.filter.personOrgUnits.placeholder": "Centros",
 
   // "search.filters.filter.namedresourcetype.head": "Status",
   "search.filters.filter.namedresourcetype.head": "Estado",
@@ -9538,7 +9537,7 @@
   "search.filters.filter.show-more": "Mostrar más",
 
   // "search.filters.filter.subject.head": "Subject",
-  "search.filters.filter.subject.head": "Materias",
+  "search.filters.filter.subject.head": "Area de investigación",
 
   // "search.filters.filter.subject.placeholder": "Subject",
   "search.filters.filter.subject.placeholder": "Materias",
@@ -9575,15 +9574,15 @@
 
   // "search.filters.filter.types.head": "Type",
   // TODO New key - Add a translation
-  "search.filters.filter.types.head": "Type",
+  "search.filters.filter.types.head": "Tipo",
 
   // "search.filters.filter.types.label": "Search Type",
   // TODO New key - Add a translation
-  "search.filters.filter.types.label": "Search Type",
+  "search.filters.filter.types.label": "Buscar por tipo",
 
   // "search.filters.filter.types.placeholder": "Type",
   // TODO New key - Add a translation
-  "search.filters.filter.types.placeholder": "Type",
+  "search.filters.filter.types.placeholder": "Tipo",
 
 
   // "search.filters.entityType.JournalIssue": "Journal Issue",
@@ -9692,23 +9691,23 @@
 
   // "defaultConfiguration.search.results.head": "Search Results",
   // TODO New key - Add a translation
-  "defaultConfiguration.search.results.head": "Search Results",
+  "defaultConfiguration.search.results.head": "Resultados",
 
   // "infrastructure.search.results.head": "Infrastructures Search Results",
   // TODO New key - Add a translation
   "infrastructure.search.results.head": "Infrastructures Search Results",
 
-  // "project_funding.search.results.head": "Projects Search Results",
+  // "project_funding.search.results.head": "Resultados de búsqueda de proyectos",
   // TODO New key - Add a translation
-  "project_funding.search.results.head": "Projects Search Results",
+  "project_funding.search.results.head": "Resultados de búsqueda de proyectos",
 
   // "researchoutputs.search.results.head": "Publications Search Results",
   // TODO New key - Add a translation
-  "researchoutputs.search.results.head": "Publications Search Results",
+  "researchoutputs.search.results.head": "Resultados de la búsqueda de publicaciones",
 
   // "orgunit.search.results.head": "Organizations Search Results",
   // TODO Source message changed - Revise the translation
-  "orgunit.search.results.head": "Resultados de búsqueda de unidades organizativas",
+  "orgunit.search.results.head": "Resultados de búsqueda de Institutos y Centros",
 
   // "search.results.no-results": "Your search returned no results. Having trouble finding what you're looking for? Try putting",
   "search.results.no-results": "Su búsqueda no produjo resultados. ¿Tiene problemas para encontrar lo que busca? Intente poner",
@@ -9738,7 +9737,7 @@
   "search.sidebar.results": "resultados",
 
   // "search.sidebar.settings.rpp": "Results per page",
-  "search.sidebar.settings.rpp": "resultados por página",
+  "search.sidebar.settings.rpp": "Resultados por página",
 
   // "search.sidebar.settings.sort-by": "Sort By",
   "search.sidebar.settings.sort-by": "Ordenar por",
@@ -9797,7 +9796,7 @@
   "sorting.DESC": "Descendente",
 
   // "sorting.dc.title.ASC": "Title Ascending",
-  "sorting.dc.title.ASC": "Título Ascendente",
+  "sorting.dc.title.ASC": "Título ascendente",
 
   // "sorting.dc.title.DESC": "Title Descending",
   "sorting.dc.title.DESC": "Título Descendente",
@@ -9830,22 +9829,22 @@
   "sorting.score.ASC": "Menos relevante",
 
   // "sorting.score.DESC": "Most Relevant",
-  "sorting.score.DESC": "Lo más relevante",
+  "sorting.score.DESC": "Relevancia",
 
   // "sorting.dc.date.issued.ASC": "Date Issued Ascending",
-  "sorting.dc.date.issued.ASC": "Fecha de publicación Ascendente",
+  "sorting.dc.date.issued.ASC": "Fecha de publicación ascendente",
 
   // "sorting.dc.date.issued.DESC": "Date Issued Descending",
-  "sorting.dc.date.issued.DESC": "Fecha de publicación Descendente",
+  "sorting.dc.date.issued.DESC": "Fecha de publicación",
 
   // "sorting.dc.date.accessioned.ASC": "Accessioned Date Ascending",
-  "sorting.dc.date.accessioned.ASC": "Fecha de envío Ascendente",
+  "sorting.dc.date.accessioned.ASC": "Fecha de envío",
 
   // "sorting.dc.date.accessioned.DESC": "Accessioned Date Descending",
-  "sorting.dc.date.accessioned.DESC": "Fecha de envío Descendente",
+  "sorting.dc.date.accessioned.DESC": "Fecha de envío descendente",
 
   // "sorting.lastModified.ASC": "Last modified Ascending",
-  "sorting.lastModified.ASC": "Última modificación Ascendente",
+  "sorting.lastModified.ASC": "Última modificación",
 
   // "sorting.lastModified.DESC": "Last modified Descending",
   "sorting.lastModified.DESC": "Última modificación Descendente",
@@ -9870,11 +9869,11 @@
 
   // "sorting.ownerselection.ASC": "Owner Relevance Ascending",
   // TODO New key - Add a translation
-  "sorting.ownerselection.ASC": "Owner Relevance Ascending",
+  "sorting.ownerselection.ASC": "Relevancia",
 
   // "sorting.ownerselection.DESC": "Owner Relevance Descending",
   // TODO New key - Add a translation
-  "sorting.ownerselection.DESC": "Owner Relevance Descending",
+  "sorting.ownerselection.DESC": "Relevancia",
 
   // "sorting.organization.legalName.ASC": "Legal Name Ascending",
   // TODO New key - Add a translation
@@ -10443,35 +10442,35 @@
 
   // "statistics.categories.rpprojectsReports.tab": "Researchers projects reports",
   // TODO New key - Add a translation
-  "statistics.categories.rpprojectsReports.tab": "Researchers projects reports",
+  "statistics.categories.rpprojectsReports.tab": "Reportes",
 
   // "statistics.categories.publicationsReports.tab": "Publications reports",
   // TODO New key - Add a translation
-  "statistics.categories.publicationsReports.tab": "Publications reports",
+  "statistics.categories.publicationsReports.tab": "Reportes",
 
   // "statistics.categories.rppublicationsReports.tab": "Researchers publication reports",
   // TODO New key - Add a translation
-  "statistics.categories.rppublicationsReports.tab": "Researchers publication reports",
+  "statistics.categories.rppublicationsReports.tab": "Reportes",
 
   // "statistics.categories.downloadReports.tab": "Downloads reports",
   // TODO New key - Add a translation
-  "statistics.categories.downloadReports.tab": "Downloads reports",
+  "statistics.categories.downloadReports.tab": "Descargas",
 
   // "statistics.categories.itemReports.tab": "Item views reports",
   // TODO New key - Add a translation
-  "statistics.categories.itemReports.tab": "Item views reports",
+  "statistics.categories.itemReports.tab": "Vistas",
 
   // "statistics.table.itemReports.header.continent": "Continent",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.header.continent": "Continent",
+  "statistics.table.itemReports.header.continent": "Continente",
 
   // "statistics.table.itemReports.header.views": "Views",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.header.views": "Views",
+  "statistics.table.itemReports.header.views": "Vistas",
 
   // "statistics.table.itemReports.header.city": "City",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.header.city": "City",
+  "statistics.table.itemReports.header.city": "Ciudad",
 
   // "statistics.table.itemReports.header.item": "Item",
   // TODO New key - Add a translation
@@ -10479,31 +10478,31 @@
 
   // "statistics.table.mainReports.header.community": "Community",
   // TODO New key - Add a translation
-  "statistics.table.mainReports.header.community": "Community",
+  "statistics.table.mainReports.header.community": "Comunidad",
 
   // "statistics.table.mainReports.header.collection": "Collection",
   // TODO New key - Add a translation
-  "statistics.table.mainReports.header.collection": "Collection",
+  "statistics.table.mainReports.header.collection": "Colección",
 
   // "statistics.table.itemReports.title.TopContinents": "Top region views",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.title.TopContinents": "Top region views",
+  "statistics.table.itemReports.title.TopContinents": "Top vistas por región",
 
   // "statistics.table.itemReports.title.TopCities": "Top cities views",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.title.TopCities": "Top cities views",
+  "statistics.table.itemReports.title.TopCities": "Top vistas por ciudad",
 
   // "statistics.table.itemReports.title.TopItems": "Most viewed",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.title.TopItems": "Most viewed",
+  "statistics.table.itemReports.title.TopItems": "Más vistos",
 
   // "statistics.table.itemReports.title.TopCategories": "Top categories",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.title.TopCategories": "Top categories",
+  "statistics.table.itemReports.title.TopCategories": "Top categorias",
 
   // "statistics.table.itemReports.title.TotalVisitsPerMonth": "Top views per month",
   // TODO New key - Add a translation
-  "statistics.table.itemReports.title.TotalVisitsPerMonth": "Top views per month",
+  "statistics.table.itemReports.title.TotalVisitsPerMonth": "Top vistas por mes",
 
   // "statistics.table.publicationsReports.header.item": "Item",
   // TODO New key - Add a translation
@@ -10511,11 +10510,11 @@
 
   // "statistics.table.publicationsReports.header.views": "Views",
   // TODO New key - Add a translation
-  "statistics.table.publicationsReports.header.views": "Views",
+  "statistics.table.publicationsReports.header.views": "Vistas",
 
   // "statistics.table.publicationsReports.header.city": "City",
   // TODO New key - Add a translation
-  "statistics.table.publicationsReports.header.city": "City",
+  "statistics.table.publicationsReports.header.city": "Ciudad",
 
   // "statistics.table.projectsReports.header.item": "Item",
   // TODO New key - Add a translation
@@ -10523,15 +10522,15 @@
 
   // "statistics.table.projectsReports.header.views": "Views",
   // TODO New key - Add a translation
-  "statistics.table.projectsReports.header.views": "Views",
+  "statistics.table.projectsReports.header.views": "Vistas",
 
   // "statistics.table.projectsReports.header.city": "City",
   // TODO New key - Add a translation
-  "statistics.table.projectsReports.header.city": "City",
+  "statistics.table.projectsReports.header.city": "Ciudad",
 
   // "statistics.reports.title": "Reports",
   // TODO New key - Add a translation
-  "statistics.reports.title": "Reports",
+  "statistics.reports.title": "Reportes",
 
   // "submission.dropdown.hint.open": "Open data means the data files you submit will be openly accessible and downloadable without any restrictions.",
   // TODO New key - Add a translation
@@ -11285,7 +11284,7 @@
   "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingOfPublication": "Búsqueda de financiación",
 
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Search for Organizational Units",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Búsqueda de unidades organizativas",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Búsqueda de Institutos y Centros",
 
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isProjectOfPublication": "Projects",
   "submission.sections.describe.relationship-lookup.search-tab.tab-title.isProjectOfPublication": "Proyectos",
@@ -12362,11 +12361,11 @@
 
   // "treeview.search.form.reset": "Reset",
   // TODO New key - Add a translation
-  "treeview.search.form.reset": "Reset",
+  "treeview.search.form.reset": "Restablecer",
 
   // "treeview.search.form.search": "Search",
   // TODO New key - Add a translation
-  "treeview.search.form.search": "Search",
+  "treeview.search.form.search": "Buscar",
 
   // "treeview.search.no-result": "There were no items to show",
   // TODO New key - Add a translation
@@ -12376,7 +12375,7 @@
 
   // "treeview.load-more": "Load more",
   // TODO New key - Add a translation
-  "treeview.load-more": "Load more",
+  "treeview.load-more": "Cargar más",
 
 
 
@@ -12524,7 +12523,7 @@
   "supervision.search.results.head": "Tareas del flujo de trabajo y del espacio de trabajo",
 
   // "orgunit.search.results.head": "Organizational Unit Search Results",
-  "orgunit.search.results.head": "Resultados de búsqueda de unidades organizativas",
+  "orgunit.search.results.head": "Resultados de búsqueda de Institutos y Centros",
 
   // "workflow-item.edit.breadcrumbs": "Edit workflowitem",
   "workflow-item.edit.breadcrumbs": "Editar ítem del flujo de trabajo",
@@ -13155,7 +13154,7 @@
 
   // "authority-confidence.search-label": "Search",
   // TODO New key - Add a translation
-  "authority-confidence.search-label": "Search",
+  "authority-confidence.search-label": "Buscar",
 
   // "statistics-page.export-map-as-image": "Export map",
   // TODO New key - Add a translation
@@ -13309,7 +13308,7 @@
   "admin.system-wide-alert.title": "Alertas del sistema",
 
   // "discover.filters.head": "Discover",
-  "discover.filters.head": "Descubrir",
+  "discover.filters.head": "Descubre",
 
   // "item-access-control-title": "This form allows you to perform changes to the access conditions of the item's metadata or its bitstreams.",
   "item-access-control-title": "Esta pantalla le permite realizar cambios en las condiciones de acceso a los metadatos o a los archivos del ítem.",
@@ -14437,7 +14436,7 @@
   "item.page.cc.license.disclaimer": "Excepto donde se indique lo contrario, la licencia de este ítem se describe como",
 
   // "browse.search-form.placeholder": "Search the repository",
-  "browse.search-form.placeholder": "Buscar en el repositorio",
+  "browse.search-form.placeholder": "",
 
   // "file-download-link.download": "Download ",
   "file-download-link.download": "Descargar ",
@@ -14673,11 +14672,11 @@
 
   // "metadata-link-view.popover.label.OrgUnit.dc.description.abstract": "Description",
   // TODO New key - Add a translation
-  "metadata-link-view.popover.label.OrgUnit.dc.description.abstract": "Description",
+  "metadata-link-view.popover.label.OrgUnit.dc.description.abstract": "Descripción",
 
   // "metadata-link-view.popover.label.Project.dc.title": "Title",
   // TODO New key - Add a translation
-  "metadata-link-view.popover.label.Project.dc.title": "Title",
+  "metadata-link-view.popover.label.Project.dc.title": "Título",
 
   // "metadata-link-view.popover.label.Project.oairecerif.project.status": "Status",
   // TODO New key - Add a translation
@@ -14689,7 +14688,7 @@
 
   // "metadata-link-view.popover.label.Funding.dc.title": "Title",
   // TODO New key - Add a translation
-  "metadata-link-view.popover.label.Funding.dc.title": "Title",
+  "metadata-link-view.popover.label.Funding.dc.title": "Título",
 
   // "metadata-link-view.popover.label.Funding.oairecerif.funder": "Funder",
   // TODO New key - Add a translation
@@ -14705,7 +14704,7 @@
 
   // "metadata-link-view.popover.label.Publication.dc.title": "Title",
   // TODO New key - Add a translation
-  "metadata-link-view.popover.label.Publication.dc.title": "Title",
+  "metadata-link-view.popover.label.Publication.dc.title": "Título",
 
   // "metadata-link-view.popover.label.Publication.dc.identifier.doi": "DOI",
   // TODO New key - Add a translation
@@ -14721,7 +14720,7 @@
 
   // "metadata-link-view.popover.label.other.dc.title": "Title",
   // TODO New key - Add a translation
-  "metadata-link-view.popover.label.other.dc.title": "Title",
+  "metadata-link-view.popover.label.other.dc.title": "Título",
 
   // "metadata-link-view.popover.label.other.dc.description.abstract": "Description",
   // TODO New key - Add a translation
@@ -14745,38 +14744,38 @@
 
   // "layout.box.header.OrgUnit.rpprojects": "OrgUnit's Researchers projects",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.rpprojects": "OrgUnit's Researchers projects",
+  "layout.box.header.OrgUnit.rpprojects": "Proyectos de investigación",
   // "layout.box.header.OrgUnit.publications": "OrgUnit's Publications",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.publications": "OrgUnit's Publications",
+  "layout.box.header.OrgUnit.publications": "Publicaciones",
   // "layout.box.header.OrgUnit.rppublications": "OrgUnit's Researchers publications",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.rppublications": "OrgUnit's Researchers publications",
+  "layout.box.header.OrgUnit.rppublications": "Publicaciones",
   // "layout.box.header.OrgUnit.people": "OrgUnit's Researchers",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.people": "OrgUnit's Researchers",
+  "layout.box.header.OrgUnit.people": "Investigadores",
   // "layout.box.header.OrgUnit.projects": "OrgUnit funded Projects",
   // TODO New key - Add a translation
   "layout.box.header.OrgUnit.projects": "OrgUnit funded Projects",
   // "layout.box.header.OrgUnit.description": "Description",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.description": "Description",
+  "layout.box.header.OrgUnit.description": "Descripción",
   // "layout.box.header.OrgUnit.organizations": "SubOrgUnits",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.organizations": "SubOrgUnits",
+  "layout.box.header.OrgUnit.organizations": "Sub centros",
   // "layout.box.header.OrgUnit.details": "Details",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.details": "Details",
+  "layout.box.header.OrgUnit.details": "Detalles",
   // "layout.box.header.OrgUnit.orgcard": "Card",
   // TODO New key - Add a translation
   "layout.box.header.OrgUnit.orgcard": "Card",
   // "layout.box.header.OrgUnit.metrics": "Metrics",
   // TODO New key - Add a translation
-  "layout.box.header.OrgUnit.metrics": "Metrics",
+  "layout.box.header.OrgUnit.metrics": "Métricas",
 
   // "layout.box.header.Project.description": "Description",
   // TODO New key - Add a translation
-  "layout.box.header.Project.description": "Description",
+  "layout.box.header.Project.description": "Resumen:",
   // "layout.box.header.Project.researchoutputs": "Publications",
   // TODO New key - Add a translation
   "layout.box.header.Project.researchoutputs": "Publications",
@@ -14866,21 +14865,15 @@
 
 
   // Layout - Autogenerated i18n keys: metadata
-  // "layout.field.label.OrgUnit.[organization.address.addressCountry]": "Country",
-  // TODO New key - Add a translation
-  "layout.field.label.OrgUnit.[organization.address.addressCountry]": "Country",
-  // "layout.field.label.OrgUnit.[organization.address.addressLocality]": "City",
-  // TODO New key - Add a translation
-  "layout.field.label.OrgUnit.[organization.address.addressLocality]": "City",
-  // "layout.field.label.OrgUnit.[dc.description.abstract]": "Description",
   // TODO New key - Add a translation
   "layout.field.label.OrgUnit.[dc.description.abstract]": "Description",
   // "layout.field.label.OrgUnit.[crisou.director]": "Director",
   // TODO New key - Add a translation
   "layout.field.label.OrgUnit.[crisou.director]": "Director",
+
   // "layout.field.label.OrgUnit.[organization.parentOrganization]": "Parent Organisation",
-  // TODO New key - Add a translation
-  "layout.field.label.OrgUnit.[organization.parentOrganization]": "Parent Organisation",
+  "layout.field.label.OrgUnit.[organization.parentOrganization]": "Unidad asociada",
+
   // "layout.field.label.OrgUnit.[organization.foundingDate]": "Founding Date",
   // TODO New key - Add a translation
   "layout.field.label.OrgUnit.[organization.foundingDate]": "Founding Date",
@@ -14896,10 +14889,21 @@
 
   // "layout.field.label.Project.[dc.description.abstract]": "Description",
   // TODO New key - Add a translation
-  "layout.field.label.Project.[dc.description.abstract]": "Description",
+  "layout.field.label.Project.[dc.description.abstract]": "Resumen:",
+
+  "layout.field.label.Project.[dc.subject.classification]": "Tema de investigación:",
+
+  "layout.field.label.Project.[dc.relation.ispartof]": "Área de impacto:",
+
+  "layout.field.label.Project.[cris.orgunit]": "Unidad de investigación:",
+
+  "layout.field.label.Project.[dc.contributor.advisor]": "Coinvestigador(es):",
+
+  "layout.field.label.Project.[dc.description.status]": "Estado:",
+
   // "layout.field.label.Project.[dc.subject]": "Keywords",
   // TODO New key - Add a translation
-  "layout.field.label.Project.[dc.subject]": "Keywords",
+  "layout.field.label.Project.[dc.subject]": "Área de investigación:",
   // "layout.field.label.Project.[oairecerif.acronym]": "Acronym",
   // TODO New key - Add a translation
   "layout.field.label.Project.[oairecerif.acronym]": "Acronym",
@@ -14948,7 +14952,7 @@
   "layout.field.label.Funding.[dc.relation.project]": "Project",
   // "layout.field.label.Funding.[dc.type]": "Type",
   // TODO New key - Add a translation
-  "layout.field.label.Funding.[dc.type]": "Type",
+  "layout.field.label.Funding.[dc.type]": "Tipo",
   // "layout.field.label.Funding.[oairecerif.funder]": "Funder",
   // TODO New key - Add a translation
   "layout.field.label.Funding.[oairecerif.funder]": "Funder",
@@ -14982,7 +14986,7 @@
   "layout.field.label.Event.[oairecerif.event.place]": "Location",
   // "layout.field.label.Event.[dc.type]": "Type",
   // TODO New key - Add a translation
-  "layout.field.label.Event.[dc.type]": "Type",
+  "layout.field.label.Event.[dc.type]": "Tipo",
   // "layout.field.label.Event.[crisevent.organizerou]": "Organizer",
   // TODO New key - Add a translation
   "layout.field.label.Event.[crisevent.organizerou]": "Organizer",
@@ -15025,14 +15029,14 @@
   "layout.field.label.Equipment.[oairecerif.internalid]": "Internal ID",
   // "layout.field.label.Equipment.[dc.title]": "Name",
   // TODO New key - Add a translation
-  "layout.field.label.Equipment.[dc.title]": "Name",
+  "layout.field.label.Equipment.[dc.title]": "Nombre",
   // "layout.field.label.Equipment.[crisequipment.ownerou]": "Owner Organisation",
   // TODO New key - Add a translation
   "layout.field.label.Equipment.[crisequipment.ownerou]": "Owner Organisation",
 
   // "layout.field.label.Product.[dc.title]": "Title",
   // TODO New key - Add a translation
-  "layout.field.label.Product.[dc.title]": "Title",
+  "layout.field.label.Product.[dc.title]": "Título",
   // "layout.field.label.Product.[dc.relation.ispartof]": "Journal",
   // TODO New key - Add a translation
   "layout.field.label.Product.[dc.relation.ispartof]": "Journal",
@@ -15079,8 +15083,8 @@
   "explore.patentes.breadcrumbs":"Patentes",
   "explore.search-section.patentes.title":" Buscar patentes",
   "patente.listelement.badge":"Patente",
-  "explore.search-section.organizational-units.title":"Buscar Institutos y Centros",
-  "explore.organizational-units.breadcrumbs":"Buscar Institutos y Centros",
+  "explore.search-section.organizational-units.title":"Buscar centros",
+  "explore.organizational-units.breadcrumbs":"Buscar centros",
   "search.filters.filter.Keywords.head":"Palabras clave",
   "search.filters.filter.Keywords.label":"Palabras clave",
   "search.filters.filter.Keywords.placeholder":"Palabras clave",
@@ -15101,21 +15105,21 @@
   "search.filters.filter.PersonStatus.label":"Estado",
   "search.filters.filter.PersonStatus.placeholder":"Estado",
   "search.filters.applied.f.PersonStatus":"Estado",
-  "explore.index.OrgParent":"Institución",
-  "search.filters.filter.OrgParent.head":"Institución",
-  "search.filters.filter.OrgParent.label":"Institución",
-  "search.filters.filter.OrgParent.placeholder":"Institución",
-  "search.filters.applied.f.OrgParent":"Institución",
+  "explore.index.OrgParent":"Unidad asociada",
+  "search.filters.filter.OrgParent.head":"Unidad asociada",
+  "search.filters.filter.OrgParent.label":"Unidad asociada",
+  "search.filters.filter.OrgParent.placeholder":"Unidad asociada",
+  "search.filters.applied.f.OrgParent":"Unidad asociada",
   "explore.index.OrgDirector":"Director",
   "search.filters.filter.OrgDirector.head":"Director",
   "search.filters.filter.OrgDirector.label":"Director",
   "search.filters.filter.OrgDirector.placeholder":"Director",
   "search.filters.applied.f.OrgDirector":"Director",
-  "explore.index.PersonKnowsAbout":"Temas de investigación",
-  "search.filters.filter.PersonKnowsAbout.head":"Temas de investigación",
-  "search.filters.filter.PersonKnowsAbout.label":"Temas de investigación",
-  "search.filters.filter.PersonKnowsAbout.placeholder":"Temas de investigación",
-  "search.filters.applied.f.PersonKnowsAbout":"Temas de investigación",
+  "explore.index.PersonKnowsAbout":"Tema de investigación",
+  "search.filters.filter.PersonKnowsAbout.head":"Tema de investigación",
+  "search.filters.filter.PersonKnowsAbout.label":"Tema de investigación",
+  "search.filters.filter.PersonKnowsAbout.placeholder":"Tema de investigación",
+  "search.filters.applied.f.PersonKnowsAbout":"Tema de investigación",
   "explore.index.PersonDedication":"Dedicación",
   "search.filters.filter.PersonDedication.head":"Dedicación",
   "search.filters.filter.PersonDedication.label":"Dedicación",
@@ -15136,11 +15140,11 @@
   "search.filters.filter.itemtype.label":"Tipo",
   "search.filters.filter.itemtype.placeholder":"Tipo",
   "search.filters.applied.f.itemtype":"Tipo",
-  "explore.index.PublicationAffiliation":"Afialiación",
-  "search.filters.filter.PublicationAffiliation.head":"Afialiación",
-  "search.filters.filter.PublicationAffiliation.label":"Afialiación",
-  "search.filters.filter.PublicationAffiliation.placeholder":"Afialiación",
-  "search.filters.applied.f.PublicationAffiliation":"Afialiación",
+  "explore.index.PublicationAffiliation":"Afiliación",
+  "search.filters.filter.PublicationAffiliation.head":"Afiliación",
+  "search.filters.filter.PublicationAffiliation.label":"Afiliación",
+  "search.filters.filter.PublicationAffiliation.placeholder":"Afiliación",
+  "search.filters.applied.f.PublicationAffiliation":"Afiliación",
   "layout.tab.header.Person.details": "Perfil",
 
 "layout.tab.header.Person.publications": "Publicaciones",
@@ -15152,24 +15156,24 @@
 "layout.tab.header.Person.secure": "Secured Tab",
 
 "layout.tab.header.OrgUnit.details": "Información",
-"layout.tab.header.OrgUnit.organizations": "Organizations",
-"layout.tab.header.OrgUnit.publications": "Publicaciones y Patentes",
+"layout.tab.header.OrgUnit.organizations": "Centros",
+"layout.tab.header.OrgUnit.publications": "Publicaciones y patentes",
 "layout.tab.header.OrgUnit.rppublications": "Publicaciones",
 "layout.tab.header.OrgUnit.projects": "Proyectos",
-"layout.tab.header.OrgUnit.rpprojects": "Researchers projects",
+"layout.tab.header.OrgUnit.rpprojects": "Proyecto de investigación",
 "layout.tab.header.OrgUnit.people": "Personal Investigador",
-"layout.tab.header.OrgUnit.bitstreams": "Files",
+"layout.tab.header.OrgUnit.bitstreams": "Archivos",
 "layout.tab.header.Project.heading": "Heading",
 "layout.tab.header.Project.details": "Datos Generales",
-"layout.tab.header.Project.bitstreams": "Files",
-"layout.tab.header.Project.projectoutputs": "Publicación",
+"layout.tab.header.Project.bitstreams": "Archivos",
+"layout.tab.header.Project.projectoutputs": "Publicaciones",
 "layout.tab.header.Journal.details": "Detalles",
 "layout.tab.header.Journal.publications": "Publicaciones",
-"layout.tab.header.Event.details": "Details",
-"layout.tab.header.Equipment.details": "Details",
-"layout.tab.header.Funding.details": "Details",
-"layout.tab.header.Product.details": "Details",
-"layout.tab.header.Patent.heading": "Details",
+"layout.tab.header.Event.details": "Detalles",
+"layout.tab.header.Equipment.details": "Detalles",
+"layout.tab.header.Funding.details": "Detalles",
+"layout.tab.header.Product.details": "Detalles",
+"layout.tab.header.Patent.heading": "Detalles",
 "layout.tab.header.Publication.details": "",
 "layout.tab.header.Publication.metadatainfo": "Detalles",
 "layout.tab.header.Publication.relations": "Relaciones",
@@ -15184,36 +15188,36 @@
 
 "layout.box.header.Equipment.metrics": "Metrics",
 "layout.box.header.Equipment.details": "Equipment description",
-"layout.box.header.Equipment.bitstreams": "Files",
+"layout.box.header.Equipment.bitstreams": "Archivos",
 
 "layout.box.header.Event.details": "Description",
 "layout.box.header.Event.metrics": "Metrics",
-"layout.box.header.Event.bitstreams": "Files",
+"layout.box.header.Event.bitstreams": "Archivos",
 
 "layout.box.header.Funding.primarydata": "Primary Data",
 "layout.box.header.Funding.investigators": "Investigators",
 "layout.box.header.Funding.metrics": "Metrics",
 "layout.box.header.Funding.financialdata": "Financial Data",
-"layout.box.header.Funding.bitstreams": "Files",
+"layout.box.header.Funding.bitstreams": "Archivos",
 "layout.box.header.Journal.details": "Journal description",
 "layout.box.header.Journal.publications": "Journal Publications",
 "layout.box.header.Journal.metrics": "Metrics",
 "layout.box.header.OrgUnit.people": "Personal Investigador",
 
 "layout.box.header.OrgUnit.projects": "OrgUnit funded Projects",
-"layout.box.header.OrgUnit.organizations": "SubOrgUnits",
-"layout.box.header.OrgUnit.rpprojects": "OrgUnit's Researchers projects",
+"layout.box.header.OrgUnit.organizations": "Sub centros",
+"layout.box.header.OrgUnit.rpprojects": "Proyecto de investigación",
 "layout.box.header.OrgUnit.metrics": "Métricas",
 "layout.box.header.OrgUnit.details": "Información",
 "layout.box.header.OrgUnit.rppublications": "OrgUnit's Researchers publications",
 "layout.box.header.OrgUnit.publications": "OrgUnit's Publications",
-"layout.box.header.OrgUnit.bitstreams": "Files",
+"layout.box.header.OrgUnit.bitstreams": "Archivos",
 
 "layout.box.header.Patent.usagemetrics": "Metrics",
 "layout.box.header.Patent.altmetrics": "Metrics",
 "layout.box.header.Patent.details": "Details",
 "layout.box.header.Patent.relations": "Related Items",
-"layout.box.header.Patent.bitstreams": "Files",
+"layout.box.header.Patent.bitstreams": "Archivos",
 "layout.box.header.Patent.metrics": "Metrics",
 "layout.box.header.Person.researchoutputs": "Publicaciones",
 "layout.box.header.Person.researcherprofile": "Perfil",
@@ -15232,14 +15236,14 @@
 "layout.box.header.Product.altmetrics": "Metrics",
 "layout.box.header.Product.details": "Details",
 "layout.box.header.Product.metrics": "Metrics",
-"layout.box.header.Product.bitstreams": "Files",
+"layout.box.header.Product.bitstreams": "Archivos",
 
 "layout.box.header.Project.researchoutputs": "Publications",
 "layout.box.header.Project.metrics": "Metrics",
 "layout.box.header.Project.description": "Description",
 "layout.box.header.Project.fundings": "Fundings",
 "layout.box.header.Project.primarydata": "Primary Data",
-"layout.box.header.Project.bitstreams": "Files",
+"layout.box.header.Project.bitstreams": "Archivos",
 
 
 "layout.box.header.Publication.bitstreams": "Archivos",
@@ -15256,7 +15260,7 @@
 "layout.field.label.Equipment.BITSTREAM": "File(s)",
 
 
-"layout.field.label.Event.dc.type": "Type",
+"layout.field.label.Event.dc.type": "Tipo",
 "layout.field.label.Event.oairecerif.event.startDate": "Start Date",
 "layout.field.label.Event.oairecerif.event.endDate": "End Date",
 "layout.field.label.Event.crisevent.organizerou": "Organizer",
@@ -15272,7 +15276,7 @@
 "layout.field.label.Event.oairecerif.event.place": "Location",
 "layout.field.label.Event.BITSTREAM": "File(s)",
 
-"layout.field.label.Funding.dc.type": "Type",
+"layout.field.label.Funding.dc.type": "Tipo",
 "layout.field.label.Funding.dc.description": "Description",
 "layout.field.label.Funding.dc.relation.project": "Project",
 "layout.field.label.Funding.oairecerif.funder": "Funder",
@@ -15295,7 +15299,7 @@
 
 
 "layout.field.label.OrgUnit.crisou.director": "Director",
-"layout.field.label.OrgUnit.organization.parentOrganization": "Institución",
+"layout.field.label.OrgUnit.organization.parentOrganization": "Unidad asociada",
 "layout.field.label.OrgUnit.dc.description.scope": "Misión",
 "layout.field.label.OrgUnit.organization.foundingdate": "Año de creación",
 "layout.field.label.OrgUnit.dc.description.status": "Estado",
@@ -15303,7 +15307,11 @@
 "layout.field.label.OrgUnit.organization.url": "Sitio web",
 "layout.field.label.OrgUnit.organization.address": "Dirección",
 "layout.field.label.OrgUnit.BITSTREAM": "File(s)",
-
+"layout.field.label.OrgUnit.organization.address": "Dirección",
+"layout.field.label.OrgUnit.organization.address.addressLocality": "Ciudad",
+"layout.field.label.OrgUnit.organization.address.addressCountry": "País",
+"layout.field.label.OrgUnit.organization.email": "Email",
+"layout.field.label.OrgUnit.organization.telephone": "Teléfono",
 "layout.field.label.Patent.dc.contributor.authors": "Autor(es)",
 "layout.field.label.Patent.dc.contributor.author": "Investigadores UNIBE",
 "layout.field.label.Patent.dc.contributor.affiliation": "Afiliaciones",
@@ -15319,64 +15327,71 @@
 "layout.field.label.Patent.dc.relation.patent": "Patente",
 "layout.field.label.Patent.BITSTREAM": "Archivo(s)",
 
-"layout.field.label.Person.crisrp.name": "Nombre",
+"layout.field.label.Person.crisrp.name": "Nombre normalizado",
 "layout.field.label.Person.person.jobTitle": "Posición",
-"layout.field.label.Person.person.affiliation.name": "Afililiación Principal",
-"layout.field.label.Person.oairecerif.person.affiliation": "Estado",
+"layout.field.label.Person.person.affiliation.name": "Afililiación principal",
+//Estado de afiliación
+"layout.field.label.Person.oairecerif.person.affiliation": "Estado de afiliación",
 "layout.field.label.Person.person.knowsAbout": "Temas de investigación",
 "layout.field.label.Person.person.email": "Email",
 "layout.field.label.Person.person.identifier.orcid": "ORCID",
 "layout.field.label.Person.person.identifier.scopus-author-id": "Scopus Author ID",
 "layout.field.label.Person.person.email": "Email",
 "layout.field.label.Person.person.identifier.rid": "Researcher ID",
+"layout.field.label.Person.person.catcarrera": "Categoría CNI/MESCYT",
+"layout.field.label.Person.person.catcarrera.cnino": "No. CNI/MESCYT",
+"layout.field.label.Person.crisrp.education": "Trayectoria académica",
+
+
 
 "layout.field.label.Person.crisrp.education.role": "Reseña curricular",
 "layout.field.label.Person.person.award": "Premios o reconocimientos",
 "layout.field.label.Person.crisrp.qualification": "Qualification",
-"layout.field.label.Person.dc.type": "Personal File(s)",
+"layout.field.label.Person.dc.type": "Archivo(s) personal(es)",
 
-"layout.field.label.Person.person.birthDate": "Birth Date",
-"layout.field.label.Person.dc.subject": "Research Interests",
-"layout.field.label.Person.datacite.subject.fos": "OECD Areas",
-"layout.field.label.Person.person.knowsLanguage": "Known Language(s)",
+"layout.field.label.Person.person.birthDate": "Fecha de nacimienti",
+"layout.field.label.Person.dc.subject": "Intereses de investigación",
+"layout.field.label.Person.datacite.subject.fos": "Áreas OECD",
+"layout.field.label.Person.person.knowsLanguage": "Idioma(s) conocido(s)",
 
-"layout.field.label.Product.dc.contributor.author": "Author(s)",
-"layout.field.label.Product.dc.date.issued": "Date Issued",
-"layout.field.label.Product.dc.title.alternative": "Alternative Title",
-"layout.field.label.Product.dc.type": "Type",
-"layout.field.label.Product.dc.description.version": "Version",
-"layout.field.label.Product.dc.publisher": "Publisher",
-"layout.field.label.Product.dc.relation.ispartofseries": "Journal",
-"layout.field.label.Product.dc.language.iso": "Language",
-"layout.field.label.Product.dc.description.abstract": "Abstract",
+"layout.field.label.Product.dc.contributor.author": "Autor(s)",
+"layout.field.label.Product.dc.date.issued": "Fecha de publicación",
+"layout.field.label.Product.dc.title.alternative": "Título alternativo",
+"layout.field.label.Product.dc.type": "Tipo",
+"layout.field.label.Product.dc.description.version": "Versión",
+"layout.field.label.Product.dc.publisher": "Editor",
+"layout.field.label.Product.dc.relation.ispartofseries": "Revista",
+"layout.field.label.Product.dc.language.iso": "Idioma",
+"layout.field.label.Product.dc.description.abstract": "Resumen",
 "layout.field.label.Product.dc.relation.issn": "ISSN",
 "layout.field.label.Product.dc.identifier.doi": "DOI",
-"layout.field.label.Product.dc.subject": "Subjects",
+"layout.field.label.Product.dc.subject": "Tema",
 "layout.field.label.Product.datacite.subject.fos": "FoS",
 "layout.field.label.Product.dc.description": "Additional information",
-"layout.field.label.Product.dc.relation.project": "Project(s)",
-"layout.field.label.Product.dc.relation.funding": "Funding(s)",
+"layout.field.label.Product.dc.relation.project": "Proyecto(s)",
+"layout.field.label.Product.dc.relation.funding": "Financiación(es)",
 "layout.field.label.Product.dc.relation.equipment": "Equipment(s)",
-"layout.field.label.Product.dc.relation.publication": "Publication(s)",
-"layout.field.label.Product.dc.relation.conference": "Conference",
-"layout.field.label.Product.dc.relation.references": "Reference(s)",
+"layout.field.label.Product.dc.relation.publication": "Publicación(s)",
+"layout.field.label.Product.dc.relation.conference": "Conferencia",
+"layout.field.label.Product.dc.relation.references": "Referencia(s)",
 "layout.field.label.Product.BITSTREAM": "File(s)",
 
 
 "layout.field.label.Project.dc.subject": "Área de investigación",
-"layout.field.label.Project.dc.subject.classification": "Tema de investigación",
+"layout.field.label.Project.dc.subject.classification": "Area de investigación",
 "layout.field.label.Project.dc.description.abstract": "Descripción",
 "layout.field.label.Project.dc.relation.ispartof": "Área de impacto",
 "layout.field.label.Project.dc.contributor.other": "Instituciones colaboradoras",
-"layout.field.label.Project.dc.description.status": "Status",
+"layout.field.label.Project.dc.description.status": "Estado",
 "layout.field.label.Project.dc.date.duration": "Duración",
-"layout.field.label.Project.dc.contributor.author": "Principal Investigator",
+"layout.field.label.Project.dc.contributor.author": "Investigador Principal",
 "layout.field.label.Project.dc.contributor.advisor": "Coinvestigador(es)",
+"layout.field.label.Project.dc.contributor.assistant": "Asistentes",
 "layout.field.label.Project.cris.orgunit": "Unidad de investigación",
 "layout.field.label.Project.BITSTREAM": "File(s)",
 
 "layout.field.label.Publication.dc.type": "Tipo",
-"layout.field.label.Publication.dc.typeofaccess": "Tipo de acceso",
+"layout.field.label.Publication.dc.typeofaccess": "Acceso",
 "layout.field.label.Publication.dc.relation.ispartof": "Revista",
 
 "layout.field.label.Publication.dc.relation.issn": "ISSN",
@@ -15388,10 +15403,10 @@
 "layout.field.label.Publication.dc.identifier.citation": "Cita",
 "layout.field.label.Publication.dc.identifier.doi": "DOI",
 "layout.field.label.Publication.dc.identifier.url": "URL",
-"layout.field.label.Publication.dc.identifier.uri": "Use este identificador para referenciar este registro",
+"layout.field.label.Publication.dc.identifier.uri": "Identificador del registro",
 "layout.field.label.Publication.dc.subject": "Área de investigación",
 "layout.field.label.Publication.dc.subject.keywords": "Palabras clave",
-"layout.field.label.Publication.dc.contributor.author": "Investigadores (UNIBE)",
+"layout.field.label.Publication.dc.contributor.author": "Investigador(es) de UNIBE",
 "layout.field.label.Publication.dc.relation": "Proyecto(s)",
 "layout.field.label.Publication.dc.relation.funding": "Financiamiento(s)",
 "layout.field.label.Publication.dc.relation.conference": "Conferencia(s)",
@@ -15399,12 +15414,11 @@
 "layout.field.label.Publication.dc.relation.product": "Productos relacionados",
 "layout.field.label.Publication.dc.description.abstract": "Resumen",
 "layout.field.label.Publication.dc.description": "Información adicional",
-"layout.field.label.Publication.dc.contributor.authors": "Autores",
-"layout.field.label.Publication.dc.contributor.author": "Investigador UNIBE",
+"layout.field.label.Publication.dc.contributor.authors": "Todos los autores",
 "layout.field.label.Publication.dc.contributor.affiliation": "Afiliación",
 "layout.field.label.Publication.dc.contributor.editor": "Editor",
 "layout.field.label.Publication.oairecerif.editor.affiliation": "Afiliación",
-"layout.field.label.Publication.NESTED[dc.contributor.author]": "Investigador UNIBE",
+"layout.field.label.Publication.NESTED[dc.contributor.author]": "Investigador(es) de UNIBE",
 "layout.field.label.Publication.NESTED[oairecerif.author.affiliation]": "Afiliación",
 "layout.field.label.Publication.NESTED[dc.contributor.editor]": "Editor",
 "layout.field.label.Publication.NESTED[oairecerif.editor.affiliation]": "Afiliación",
@@ -15415,7 +15429,7 @@
 "layout.field.label.Journal.dc.description.rank": "Q-Rank",
 "layout.field.label.Journal.dc.source": "Fuente",
 "layout.field.label.Journal.dc.description.abstract": "Descripción",
-"layout.field.label.Person.person.sameas": "Connected Papers",
+"layout.field.label.Person.person.sameas": "Documentos conectados",
 "layout.field.label.Project.project.name": "Nombre del fondo",
 "layout.field.label.Project.project.identifier": "Código",
 "layout.field.label.Project.project.funder.name": "Organismo financiador",
@@ -15425,24 +15439,48 @@
 
 
 "layout.field.label.Person.oairecerif.affiliation.role": "Role",
-"layout.field.label.Person.oairecerif.person.affiliation": "Estado",
-"layout.field.label.Person.oairecerif.affiliation.startDate": "Start",
-"layout.field.label.Person.oairecerif.affiliation.endDate": "End",
+"layout.field.label.Person.oairecerif.affiliation.startDate": "Inicio",
+"layout.field.label.Person.oairecerif.affiliation.endDate": "Fin",
 "layout.field.label.Person.crisrp.education.role": "Role",
-"layout.field.label.Person.crisrp.education": "Organisation",
-"layout.field.label.Person.crisrp.education.start": "Start",
-"layout.field.label.Person.crisrp.education.end": "End",
-"layout.field.label.Person.crisrp.qualification": "Title",
-"layout.field.label.Person.crisrp.qualification.start": "Start",
-"layout.field.label.Person.crisrp.qualification.end": "End",
+"layout.field.label.Person.crisrp.education": "Trayectoria académica",
+"layout.field.label.Person.crisrp.education.start": "Inicio",
+"layout.field.label.Person.crisrp.education.end": "Fin",
+"layout.field.label.Person.crisrp.qualification": "Título",
+"layout.field.label.Person.crisrp.qualification.start": "Inicio",
+"layout.field.label.Person.crisrp.qualification.end": "Fin",
 "layout.field.label.Product.dc.contributor.author": "Creator",
 "layout.field.label.Product.oairecerif.author.affiliation": "Afiliación",
 "layout.field.label.Patent.dc.contributor.author": "Inventor",
 "layout.field.label.Patent.oairecerif.author.affiliation": "Afiliación",
 "submission.sections.submit.progressbar.describe.project_impactdata":"Impacto",
 "submission.sections.submit.progressbar.describe.project_funding":"Financiación",
-"":"",
-"":"",
+"explore.counters-section.softwares":"Software",
+"explore.softwares.breadcrumbs":"Software",
+"explore.search-section.softwares.title":"Buscar software",
+"software.listelement.badge":"Software",
+"software.page.titleprefix":"Software",
+"menu.section.explore_softwares":"Software",
+"explore.index.OrgState":"Estado",
+"info.statistics.breadcrumbs":"Indicadores de publicaciones",
+"info.statistics.title":"Indicadores de publicaciones",
+"indicator.page.title": "Indicadores de publicaciones",
+"search.filters.filter.OrgState.head":"Estado",
+"sorting.dc.type.ASC":"Tipo",
+"sorting.dc.contributor.author.ASC":"Autor ascendente",
+"sorting.dc.description.status.ASC":"Estatus",
+"explore.index.PersonName":"Nombre",
+"search.filters.applied.f.projectOrgUnits":"Departamento",
+"software.search.results.head":"Resultados de búsqueda de software",
+"search.filters.filter.ProjectOrgunit.head":"Departamento",
+"search.filters.filter.ProjectOrgunit.label": "Departamento",
+"search.filters.filter.ProjectResearcher.head":"Investigador",
+"search.filters.filter.ProjectResearcher.label": "Investigador",
+"explore.index.ProjectSubject":"Materia de investigación",
+
+"search.filters.filter.ProjectSubject.head":"Materia de investigación",
+"search.filters.filter.ProjectSubject.label":"Materia de investigación",
+"search.filters.filter.ProjectSubject.placeholder":"",
+"search.filters.applied.f.ProjectSubject":"Materia de investigación",
 "":"",
 
 

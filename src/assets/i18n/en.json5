@@ -1708,7 +1708,7 @@
 
   "communityList.tabTitle": "Community List",
 
-  "communityList.title": "List of Communities",
+  "communityList.title": "Communities and collections",
 
   "communityList.showMore": "Show More",
 
@@ -2931,7 +2931,7 @@
 
   "home.breadcrumbs": "Home",
 
-  "home.search-form.placeholder": "Search the repository ...",
+  "home.search-form.placeholder": "Search...",
 
   "home.title": "Home",
 
@@ -5604,7 +5604,7 @@
 
   "search.breadcrumbs": "Search",
 
-  "search.search-form.placeholder": "Search the repository ...",
+  "search.search-form.placeholder": "Search",
 
   "search.filters.remove": "Remove filter of type {{ type }} with value {{ value }}",
 
@@ -8903,7 +8903,7 @@
 
   "item.page.cc.license.disclaimer": "Except where otherwised noted, this item's license is described as",
 
-  "browse.search-form.placeholder": "Search the repository",
+  "browse.search-form.placeholder": "",
 
   "file-download-link.download": "Download ",
 
@@ -9164,6 +9164,11 @@
   "layout.field.label.OrgUnit.dc.subject": "Research Lines",
   "layout.field.label.OrgUnit.organization.url": "Website",
   "layout.field.label.OrgUnit.organization.address": "Address",
+
+  "layout.field.label.OrgUnit.organization.address.addressLocality": "City",
+  "layout.field.label.OrgUnit.organization.address.addressCountry": "Country",
+  "layout.field.label.OrgUnit.organization.email": "Email",
+  "layout.field.label.OrgUnit.organization.telephone": "Telephone",
   "layout.field.label.OrgUnit.BITSTREAM": "File(s)",
 
   "layout.field.label.Project.dc.subject": "Research Area:",
@@ -9175,6 +9180,7 @@
   "layout.field.label.Project.dc.date.duration": "Duration",
   "layout.field.label.Project.dc.contributor.author": "Principal Research",
   "layout.field.label.Project.dc.contributor.advisor": "Co-Investigator(s)",
+  "layout.field.label.Project.dc.contributor.assistant": "Assistants",
   "layout.field.label.Project.cris.orgunit": "Research Unit",
   "layout.field.label.Project.BITSTREAM": "File(s)",
   "layout.field.label.Project.project.name": "Fund Name",
@@ -9244,7 +9250,7 @@
   "layout.field.label.Equipment.[crisequipment.ownerou]": "Owner Organisation",
 
   "layout.field.label.Publication.dc.type": "Type",
-  "layout.field.label.Publication.dc.typeofaccess": "Type of Access",
+  "layout.field.label.Publication.dc.typeofaccess": "Access",
   "layout.field.label.Publication.dc.relation.ispartof": "Journal",
 
   "layout.field.label.Publication.dc.relation.issn": "ISSN",
@@ -9256,7 +9262,7 @@
   "layout.field.label.Publication.dc.identifier.citation": "Citation",
   "layout.field.label.Publication.dc.identifier.doi": "DOI",
   "layout.field.label.Publication.dc.identifier.url": "URL",
-  "layout.field.label.Publication.dc.identifier.uri": "Use this identifier to reference this record",
+  "layout.field.label.Publication.dc.identifier.uri": "Record identifier",
   "layout.field.label.Publication.dc.subject": "Research Area",
   "layout.field.label.Publication.dc.subject.keywords": "Keywords",
   "layout.field.label.Publication.dc.contributor.author": "UNIBE Researcher",
@@ -9402,5 +9408,30 @@
   "search.filters.applied.f.PublicationAffiliation":"Affiliation",
   "submission.sections.submit.progressbar.describe.project_impactdata":"Impact",
   "submission.sections.submit.progressbar.describe.project_funding":"Funding",
+  "explore.counters-section.softwares":"Software",
+  "explore.softwares.breadcrumbs":"Software",
+  "explore.search-section.softwares.title":"Search software",
+  "software.listelement.badge":"Software",
+  "software.page.titleprefix":"Software",
+  "menu.section.explore_softwares":"Software",
+  "explore.index.OrgState":"State",
+  "info.statistics.breadcrumbs":"Indcators",
+  "info.statistics.title":" Indicators",
+  "indicator.page.title": "Indicators",
+  "search.filters.filter.OrgState.head":"State",
+  "sorting.dc.type.ASC":"Type",
+  "sorting.dc.contributor.author.ASC":"Author",
+  "sorting.dc.description.status.ASC":"Status",
+  "explore.index.PersonName":"Name",
+  "software.search.results.head":"",
+  "search.filters.filter.ProjectOrgunit.head":"Departament",
+  "search.filters.filter.ProjectOrgunit.label": "Departament",
+  "search.filters.filter.ProjectResearcher.head":"Research",
+  "search.filters.filter.ProjectResearcher.label": "Research",
+"explore.index.ProjectSubject":"Research subject",
+"search.filters.filter.ProjectSubject.head":"Research subject",
+"search.filters.filter.ProjectSubject.label":"Research subject",
+"search.filters.filter.ProjectSubject.placeholder":"",
+"search.filters.applied.f.ProjectSubject":"Research subject",
   "":"",
 }

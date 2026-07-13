@@ -20,7 +20,7 @@
         <!--Grid column-->
         <!--Grid column-->
         <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-          <a href="https://www.unibe.edu.do/hub-de-investigacion-e-innovacion/" target="_blank">
+          <a href="https://www.unibe.edu.do/vicerrectoria-de-investigacion-e-innovacion/" target="_blank">
             <img src="assets/images/hub_investigacion_unibe.png" class="logo-hub">
           </a>
         </div>
@@ -30,7 +30,7 @@
           <ul class="list-unstyled mb-0">
             <li>
               <a class="footer-link"
-                routerLink="info/accessibility">{{ 'footer.link.accessibility' | translate }}</a>
+                routerLink="info/feedback">{{ 'footer.link.feedback' | translate }}</a>
             </li>
             <li *ngIf="showEndUserAgreement">
               <a class="footer-link"
@@ -39,6 +39,10 @@
             <li *ngIf="showPrivacyPolicy">
               <a class="footer-link"
                 href="https://www.unibe.edu.do/politica-de-privacidad/" target="_blank">{{ 'footer.link.privacy-policy' | translate}}</a>
+            </li>
+            <li>
+              <a class="footer-link"
+                routerLink="info/accessibility">{{ 'footer.link.accessibility' | translate }}</a>
             </li>
           </ul>
         </div>

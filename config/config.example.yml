@@ -44,7 +44,7 @@ ssr:
   # Whether to enable rendering of Search component on SSR.
   # If set to true the component will be included in the HTML returned from the server side rendering.
   # If set to false the component will not be included in the HTML returned from the server side rendering.
-  enableSearchComponent: false
+  enableSearchComponent: falsestatistics
   # Whether to enable rendering of Browse component on SSR.
   # If set to true the component will be included in the HTML returned from the server side rendering.
   # If set to false the component will not be included in the HTML returned from the server side rendering.
@@ -57,7 +57,7 @@ ssr:
   transferState: true
   # When a different REST base URL is used for the server-side application, the generated state contains references to
   # REST resources with the internal URL configured. By default, these internal URLs are replaced with public URLs.
-  # Disable this setting to avoid URL replacement during SSR. In this the state is not transferred to avoid security issues.
+  # Disable this setting to avoid URL restatisticsplacement during SSR. In this the state is not transferred to avoid security issues.
   replaceRestUrl: true
   # Enable request performance profiling data collection and printing the results in the server console.
   # Defaults to false. Enabling in production is NOT recommended
@@ -74,7 +74,7 @@ rest:
   nameSpace: /server
   # Provide a different REST url to be used during SSR execution. It must contain the whole url including protocol, server port and
   # server namespace (uncomment to use it).
-  #ssrBaseUrl: http://localhost:8080/server
+  ssrBaseUrl: http://localhost:8080/server
 
 # Caching settings
 cache:

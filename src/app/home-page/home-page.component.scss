@@ -3,21 +3,17 @@
     margin-top: calc(var(--ds-content-spacing) * -1);
   }
 
-  ds-base-top-section{
-      ds-metric-donuts{
-      display: none;
+  ds-top-section, ds-base-top-section {
+    ds-metric-donuts {
+      display: none !important;
     }
   }
 
-  ds-search-section.ng-star-inserted {
-    position: relative;
-    top: -40px;
-  }
-
-  
-  img.unibe_logo {
-      object-fit: contain !important;
-      scale: 60% !important;
+  @media (min-width: 768px) {
+    img.unibe_logo {
+        object-fit: contain !important;
+        scale: 110% !important;
+    }
   }
 
 }

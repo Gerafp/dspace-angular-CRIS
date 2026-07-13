@@ -36,7 +36,7 @@
   --ds-navbar-link-color-hover: #{$ds-navbar-link-color-hover};
 
   --ds-header-navbar-border-top-color: #{$ds-header-navbar-border-bottom-color};
-  --ds-header-navbar-border-bottom-color: #{$ds-header-navbar-border-bottom-color};
+  --ds-header-navbar-border-bottom-color: rgba(0, 0, 0, 0.125);
 
   --ds-expandable-navbar-bg: #{$ds-expandable-navbar-bg};
   --ds-expandable-navbar-link-color: #{$body-color};
@@ -105,7 +105,7 @@
   --ds-home-news-link-hover-color: #{darken($ds-home-news-link-color, 15%)};
   --ds-home-news-background-color: #{$gray-200};
 
-  --ds-breadcrumb-bg: #ddd !important;
+  --ds-breadcrumb-bg: rgba(0, 0, 0, 0.025) !important;
   --ds-breadcrumb-link-color: #0054a6;
   --ds-breadcrumb-link-active-color: #{darken($ds-breadcrumb-link-color, 30%)};
   --ds-breadcrumb-max-length: 200px;
@@ -137,7 +137,7 @@
   --ds-cris-layout-sidebar-border-color: #207698;
   --ds-cris-layout-sidebar-hover-focus-background-color: #0054a6;
   --ds-cris-layout-sidebar-hover-focus-border-color: #0054a6;
-  --ds-cris-layout-sidebar-menu-active-color: #{$cyan};
+  --ds-cris-layout-sidebar-menu-active-color: #03329c;
   --ds-cris-layout-sidebar-menu-active-background: #{theme-color('light')};
   --ds-cris-layout-sidebar-tab-color-hover : #{theme-color('light')};
 

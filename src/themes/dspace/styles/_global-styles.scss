@@ -29,16 +29,17 @@ ds-metric-donuts a {
 
 
 ds-counters-section i {
-  color: #0054a6;
+  color: #03329c;
 }
 
 ds-base-counters-section b{
-  color: #fff;
-  background-color: #bfd3e5;
+  color: #03329c;
+  background-color: transparent;
   border: 0;
   border-radius: 0.25rem;
   padding: .1pc;
   font-style: normal;
+  font-weight: 500;
   display: inline-block;
   min-width: 36px;
 }
@@ -46,8 +47,8 @@ ds-base-counters-section b{
 
 .btn-primary {
   color: #fff;
-  background-color: #00478d;
-  border-color: 00478d;
+  background-color: #03329c;
+  border-color: #00478d;
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
   &:hover {
     color: #fff;
@@ -55,6 +56,21 @@ ds-base-counters-section b{
     border-color: #00478d;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
   }
+}
+
+.btn-info{
+  background-color: #03329c !important;
+    &:hover {
+    color: #fff;
+    background-color: #00478d;
+    border-color: #00478d;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
+  }
+}
+
+
+ds-base-facet-section.badge-secondary {
+  background-color: #28a3dd !important;
 }
 
 .page-item.active .page-link {
@@ -202,7 +218,6 @@ ds-navbar {
 }
 
 .badge-header, .doi-badge{
-  background-color: #c0c0c0 !important;
   color: #fff !important;
 }
 
@@ -301,7 +316,7 @@ ds-search-facet-option .break-facet{
 /* Logo de unibe, no lo tomo la vez pasada*/
 img.unibe_logo {
     object-fit: contain !important;
-    scale: 60% !important;
+    scale: 110% !important;
 }
 
 .badge {
@@ -319,7 +334,8 @@ a {
 }
 
 a.lead.item-list-title {
-    font-weight: bold;
+    font-weight: 400;
+    font-size: 1rem;
     padding-bottom: 15px;
     padding-top: 15px;
     line-height: 1.2;
@@ -332,7 +348,6 @@ a.lead.item-list-title {
 
 [_nghost-dspace-angular-c1801524404] ul .active > .nav-item, [_nghost-dspace-angular-c1801524404] .sidebar-section.active > div > .nav-item {
     background: transparent;
-    font-weight: bold;
     color: #00478d;
 }
 
@@ -381,4 +396,110 @@ ds-footer {
     margin: 0 auto !important;
     display: inline-block !important; /* Importante para que text-align: center funcione */
     float: none !important;
+}
+
+
+ds-header-navbar-wrapper {
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Evita que el contenido de la página se encime sobre el menú */
+    display: block; /* Fuerza a la etiqueta personalizada de Angular a actuar como bloque */
+    background-color: #ffffff; /* Ajusta al color de tu fondo si se ve transparente al bajar */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); /* Opcional: añade una sutil sombra al flotar */
+}
+
+
+span.text-value {
+    padding: 0px;
+    font-size: 0.9rem;
+}
+
+#main-site-header-container\ logo {
+    padding: 0;
+}
+
+
+ds-view-mode-switch {
+  visibility: hidden;
+}
+
+.breadcrumb.my-0.container {
+  background-color: rgba(0, 0, 0, 0) !important;;
+}
+
+
+.thumbnail-content.img-fluid.ng-star-inserted{
+  padding: 5px;
+  border: 1px solid #111;
+}
+
+
+/* 1. Reduce el espacio en las celdas principales de la tabla */
+.table-responsive table.table tr th,
+.table-responsive table.table tr td {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    vertical-align: middle !important;
+}
+
+/* 2. Compacta los componentes personalizados de DSpace Angular */
+.table-responsive ds-metadata-render,
+.table-responsive ds-metadata-link-view {
+    display: block;
+    line-height: 1.2 !important;
+}
+
+/* 3. Elimina posibles márgenes o paddings de los contenedores internos */
+.table-responsive .d-inline-flex,
+.table-responsive .d-inline-block {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* 4. Ajusta los enlaces y los iconos para que no estiren la fila */
+.table-responsive table.table a {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 0;
+}
+
+.table-responsive table.table i {
+    font-size: 0.9rem; /* Achica ligeramente los iconos de usuario/universidad */
+    margin-left: 4px;
+}
+
+span.link-value a{
+    font-size: 0.9rem;
+}
+span.txt-value{
+    font-size: 0.9rem;
+}
+
+
+/* Tamaño idéntico para los tres badges */
+.badge-header {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 27px;
+  box-sizing: border-box;
+  white-space: normal;
+  word-break: break-word;
+  background-color: #02a0e2 !important;
+}
+
+/* Que el enlace e icono no rompan la caja */
+.badge-header a {
+  display: inline-flex;
+  align-items: center;
+  word-break: break-word;
+}
+
+ds-home-page ds-base-home-page form.ng-pristine {
+  max-width: 100%;
+  margin-left: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }

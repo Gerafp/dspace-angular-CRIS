@@ -5,7 +5,7 @@ export const PRIVACY_PATH = 'privacy';
 export const FEEDBACK_PATH = 'feedback';
 export const COAR_NOTIFY_SUPPORT = 'coar-notify-support';
 export const ACCESSIBILITY_SETTINGS_PATH = 'accessibility';
-export const ABOUT_PATH = 'about';
+export const STATISTICS_PATH = 'statistics';
 
 export function getEndUserAgreementPath() {
   return getSubPath(END_USER_AGREEMENT_PATH);
@@ -27,8 +27,8 @@ export function getAccessibilitySettingsPath() {
   return getSubPath(ACCESSIBILITY_SETTINGS_PATH);
 }
 
-export function getAboutPath() {
-  return getSubPath(ABOUT_PATH);
+export function getStatisticsPath() {
+  return getSubPath(STATISTICS_PATH);
 }
 
 function getSubPath(path: string) {

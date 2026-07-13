@@ -1,8 +1,21 @@
 <div class="container">
   <div class="row">
     <div class="col-12">
-      <h1>Solo un test</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel iure corporis voluptate, qui tenetur quisquam sapiente sint, praesentium non at quae sequi doloribus, quod ipsa. Optio ipsam fugit soluta laudantium?</p>
+      <h1>Indicadores de publicaciones</h1>
     </div>
-   </div>
+  </div>
+
+  <div class="row" *ngFor="let chart of charts">
+    <div class="col-12 mb-4">
+      <h2>{{ chart.title }}</h2>
+      <iframe
+        [src]="chart.url"
+        width="100%"
+        height="500px"
+        frameborder="0"
+        loading="lazy"
+        [title]="chart.title"
+      ></iframe>
+    </div>
+  </div>
 </div>

@@ -6,7 +6,7 @@ import {
 } from '@angular/common';
 import { Component } from '@angular/core';
 import { RouterLinkActive } from '@angular/router';
-
+import { TranslateModule } from '@ngx-translate/core';  // ← Agregar este import
 import { ExpandableNavbarSectionComponent as BaseComponent } from '../../../../../app/navbar/expandable-navbar-section/expandable-navbar-section.component';
 import { slide } from '../../../../../app/shared/animations/slide';
 import { HoverOutsideDirective } from '../../../../../app/shared/utils/hover-outside.directive';
@@ -26,6 +26,7 @@ import { HoverOutsideDirective } from '../../../../../app/shared/utils/hover-out
     NgFor,
     NgIf,
     RouterLinkActive,
+    TranslateModule,
   ],
 })
 export class ExpandableNavbarSectionComponent extends BaseComponent {

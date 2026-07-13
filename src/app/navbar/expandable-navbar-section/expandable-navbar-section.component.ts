@@ -4,6 +4,7 @@ import {
   NgFor,
   NgIf,
 } from '@angular/common';
+import { TranslateModule } from '@ngx-translate/core';
 import {
   AfterViewChecked,
   Component,
@@ -43,6 +44,7 @@ import { NavbarSectionComponent } from '../navbar-section/navbar-section.compone
     NgFor,
     NgIf,
     RouterLinkActive,
+    TranslateModule,
   ],
 })
 export class ExpandableNavbarSectionComponent extends NavbarSectionComponent implements AfterViewChecked, OnInit, OnDestroy {
