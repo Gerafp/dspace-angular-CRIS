@@ -9433,5 +9433,6 @@
 "search.filters.filter.ProjectSubject.label":"Research subject",
 "search.filters.filter.ProjectSubject.placeholder":"",
 "search.filters.applied.f.ProjectSubject":"Research subject",
+"menu.section.research_dropdown":"Browse",
   "":"",
 }

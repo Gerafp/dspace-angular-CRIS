@@ -171,6 +171,7 @@ export class MenuResolverService  {
           } else {
             parentMenu = {
               ...parentMenu,
+              parentID: 'research_dropdown',
               model: {
                 type: MenuItemType.LINK,
                 text: `menu.section.explore_${section.id}`,
@@ -181,6 +182,18 @@ export class MenuResolverService  {
           menuList.push(parentMenu);
         });
       }
+            /* LÍNEAS NUEVAS: dropdown que agrupa las secciones explore */
+      menuList.push({
+        id: 'research_dropdown',
+        active: false,
+        visible: true,
+        index: 1,
+        model: {
+          type: MenuItemType.TEXT,
+          text: 'menu.section.research_dropdown',
+        } as TextMenuItemModel,
+      });
+      
       menuList.forEach((menuSection) => this.menuService.addSection(MenuID.PUBLIC, Object.assign(menuSection, {
         shouldPersistOnRouteChange: true,
       })));

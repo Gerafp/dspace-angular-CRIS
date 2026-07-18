@@ -11,7 +11,7 @@
         </ng-container>
         <div class="navbar-nav align-items-md-center mr-auto shadow-none gapx-3" role="menubar">
           <ng-container *ngFor="let section of (sections | async)">
-            <ng-container
+          <ng-container
               *ngComponentOutlet="(sectionMap$ | async).get(section.id)?.component; injector: (sectionMap$ | async).get(section.id)?.injector;"></ng-container>
           </ng-container>
         </div>
