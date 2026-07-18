@@ -254,6 +254,18 @@ export class MenuResolverService  {
           });
         }
 
+        menuList.push({
+            id: 'general_indicators',
+            parentID: 'statistics',
+            active: false,
+            visible: true,
+            model: {
+              type: MenuItemType.LINK,
+              text: 'menu.section.indicators',
+              link: '/info/statistics',
+            } as LinkMenuItemModel,
+          });
+
         // the parent menu should be added after the children
         menuList.push(
           {

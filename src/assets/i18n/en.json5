@@ -9417,7 +9417,7 @@
   "explore.index.OrgState":"State",
   "info.statistics.breadcrumbs":"Indcators",
   "info.statistics.title":" Indicators",
-  "indicator.page.title": "Indicators",
+  "menu.section.indicators": "Indicators",
   "search.filters.filter.OrgState.head":"State",
   "sorting.dc.type.ASC":"Type",
   "sorting.dc.contributor.author.ASC":"Author",
