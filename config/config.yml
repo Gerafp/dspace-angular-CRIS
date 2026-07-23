@@ -1,6 +1,6 @@
 rest:
   ssl: true
-  host: ideaspire.cloud
+  host: dev-cris.unibe.edu.do
   port: 443
   nameSpace: /server
 
