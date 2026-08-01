@@ -14893,8 +14893,6 @@
 
   "layout.field.label.Project.[dc.subject.classification]": "Área de investigación:",
 
-  "layout.field.label.Project.[dc.relation.ispartof]": "Área de impacto:",
-
   "layout.field.label.Project.[cris.orgunit]": "Unidad de investigación:",
 
   "layout.field.label.Project.[dc.contributor.advisor]": "Coinvestigador(es):",
@@ -15147,7 +15145,7 @@
   "search.filters.applied.f.PublicationAffiliation":"Afiliación",
   "layout.tab.header.Person.details": "Perfil",
 
-"layout.tab.header.Person.publications": "Publicaciones",
+"layout.tab.header.Person.publications": "Publicaciones y patentes",
 "layout.tab.header.Person.projects": "Proyectos",
 "layout.tab.header.Person.otherinfo": "Detalles",
 "layout.tab.header.Person.networklab": "Network Lab",
@@ -15219,7 +15217,7 @@
 "layout.box.header.Patent.relations": "Related Items",
 "layout.box.header.Patent.bitstreams": "Archivos",
 "layout.box.header.Patent.metrics": "Metrics",
-"layout.box.header.Person.researchoutputs": "Publicaciones",
+"layout.box.header.Person.researchoutputs": "Publicaciones y patentes",
 "layout.box.header.Person.researcherprofile": "Perfil",
 "layout.box.header.Person.qualifications": "Trayectoria Profesional",
 "layout.box.header.Person.networklab": "Network Lab",
@@ -15341,8 +15339,7 @@
 "layout.field.label.Person.person.catcarrera": "Categoría CNI/MESCYT",
 "layout.field.label.Person.person.catcarrera.cnino": "No. CNI/MESCYT",
 "layout.field.label.Person.crisrp.education": "Trayectoria académica",
-
-
+"layout.field.label.Person.dc.identifier.uri": "Perfil URL",
 
 "layout.field.label.Person.crisrp.education.role": "Reseña curricular",
 "layout.field.label.Person.person.award": "Premios o reconocimientos",
@@ -15382,7 +15379,7 @@
 "layout.field.label.Project.dc.description.abstract": "Descripción",
 "layout.field.label.Project.dc.relation.ispartof": "",
 "layout.field.label.Project.dc.relation.ispartoflabel": "Área de impacto",
-"layout.field.label.Project.NESTED[Área de impacto]": "",
+"layout.field.label.Project.NESTED[dc.relation.ispartoflabel]": "",
 "layout.field.label.Project.dc.contributor.other": "Instituciones colaboradoras",
 "layout.field.label.Project.dc.description.status": "Estado",
 "layout.field.label.Project.dc.date.duration": "Duración",
