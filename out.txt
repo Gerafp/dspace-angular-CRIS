@@ -1,0 +1,6 @@
+Building [31m[1mproduction[22m[39m app config
+Overriding app config with /opt/dspace-vol/code/dspace-angular/config/config.yml
+Overriding app config with /opt/dspace-vol/code/dspace-angular/config/config.prod.yml
+Angular [1mconfig.json[22m file generated correctly at [1m/opt/dspace-vol/code/dspace-angular/dist/browser/assets/config.json[22m 
+
+Environment extended with app config

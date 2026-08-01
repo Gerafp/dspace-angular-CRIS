@@ -506,3 +506,76 @@ ds-home-page ds-base-home-page form.ng-pristine {
 #main-site-header-container\ logo {
   max-width: 70pc;
 }
+
+/* 1. Ocultamos el texto de la URL original */
+.connected-papers-linknull a {
+    font-size: 0;
+    color: transparent;
+    text-decoration: none;
+}
+
+/* 2. Establecemos la fila como punto de referencia para que el enlace se expanda */
+tr {
+    position: relative;
+}
+
+/* 3. Expandimos el área clickeable del enlace sobre toda la fila de forma invisible */
+.connected-papers-linknull a::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* 4. Diseño del botón con máximo 45px, centrado y truncado */
+.connected-papers-labelnull {
+    background-color: #00478d;
+    color: #ffffff;
+    
+    /* Dimensiones y alineación del botón */
+    display: block;
+    margin-left: 0;        /* Obliga al botón a alinearse a la izquierda */
+    margin-right: auto;    /* Evita que se estire o se centre en la celda */
+    text-align: center;    /* Centra el texto dentro de los 45px */
+    margin-top: -25px;
+    
+    /* Estética del botón */
+    padding: 6px 4px;      /* Padding reducido para aprovechar el espacio */
+    border-radius: 6px;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 12px;       /* Fuente un poco más pequeña */
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+    
+    /* Corte estético del texto (los 3 puntos suspensivos...) */
+    white-space: nowrap;   /* Evita que el texto baje a una segunda línea */
+    overflow: hidden;      /* Oculta lo que se salga de los 45px */
+    text-overflow: ellipsis; /* Agrega los puntos (...) cuando se corta */
+    
+    /* FUNDAMENTAL: Permite que el clic atraviese hacia la capa invisible */
+    pointer-events: none; 
+}
+
+/* Aseguramos que el texto interno (el span) también respete el truncado */
+.connected-papers-labelnull .text-value {
+    display: block; /* Necesario para que el overflow funcione en un span */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 5. (Opcional) Efecto hover para que el botón reaccione al pasar el cursor */
+tr:hover .connected-papers-labelnull {
+    background-color: #02a0e2;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.connected-papers-linknull a {
+  overflow: hidden;
+  max-height: 0px;
+}

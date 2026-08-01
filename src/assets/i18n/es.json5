@@ -3106,7 +3106,7 @@
 
   // "context-menu.actions.statistics.btn": "Statistics",
   // TODO New key - Add a translation
-  "context-menu.actions.statistics.btn": "Estadistícas",
+  "context-menu.actions.statistics.btn": "Estadísticas",
 
   // "context-menu.actions.subscription.title": "Subscription",
   // TODO New key - Add a translation
@@ -3134,7 +3134,7 @@
 
   // "context-menu.actions.subscription.statistics": "Statistics",
   // TODO New key - Add a translation
-  "context-menu.actions.subscription.statistics": "Estadistícas",
+  "context-menu.actions.subscription.statistics": "Estadísticas",
 
   // "context-menu.actions.subscription.content+statistics": "Content & Statistics",
   // TODO New key - Add a translation
@@ -4204,7 +4204,7 @@
 
   // "explore.index.subject": "Subject",
   // TODO New key - Add a translation
-  "explore.index.subject": "Area de investigación",
+  "explore.index.subject": "Área de investigación",
 
   // "explore.index.title": "Title",
   // TODO New key - Add a translation
@@ -9537,7 +9537,7 @@
   "search.filters.filter.show-more": "Mostrar más",
 
   // "search.filters.filter.subject.head": "Subject",
-  "search.filters.filter.subject.head": "Area de investigación",
+  "search.filters.filter.subject.head": "Área de investigación",
 
   // "search.filters.filter.subject.placeholder": "Subject",
   "search.filters.filter.subject.placeholder": "Materias",
@@ -14891,7 +14891,7 @@
   // TODO New key - Add a translation
   "layout.field.label.Project.[dc.description.abstract]": "Resumen:",
 
-  "layout.field.label.Project.[dc.subject.classification]": "Tema de investigación:",
+  "layout.field.label.Project.[dc.subject.classification]": "Área de investigación:",
 
   "layout.field.label.Project.[dc.relation.ispartof]": "Área de impacto:",
 
@@ -14903,7 +14903,7 @@
 
   // "layout.field.label.Project.[dc.subject]": "Keywords",
   // TODO New key - Add a translation
-  "layout.field.label.Project.[dc.subject]": "Área de investigación:",
+  "layout.field.label.Project.[dc.subject]": "Tema de investigación:",
   // "layout.field.label.Project.[oairecerif.acronym]": "Acronym",
   // TODO New key - Add a translation
   "layout.field.label.Project.[oairecerif.acronym]": "Acronym",
@@ -15125,11 +15125,11 @@
   "search.filters.filter.PersonDedication.label":"Dedicación",
   "search.filters.filter.PersonDedication.placeholder":"Dedicación",
   "search.filters.applied.f.PersonDedication":"Dedicación",
-  "explore.index.ProjectClassification":"Area de investigación",
-  "search.filters.filter.ProjectClassification.head":"Area de investigación",
-  "search.filters.filter.ProjectClassification.label":"Area de investigación",
-  "search.filters.filter.ProjectClassification.placeholder":"Area de investigación",
-  "search.filters.applied.f.ProjectClassification":"Area de investigación",
+  "explore.index.ProjectClassification":"Área de investigación",
+  "search.filters.filter.ProjectClassification.head":"Área de investigación",
+  "search.filters.filter.ProjectClassification.label":"Área de investigación",
+  "search.filters.filter.ProjectClassification.placeholder":"Área de investigación",
+  "search.filters.applied.f.ProjectClassification":"Área de investigación",
   "explore.index.ProjectFunder":"Financiador",
   "search.filters.filter.ProjectFunder.head":"Financiador",
   "search.filters.filter.ProjectFunder.label":"Financiador",
@@ -15303,7 +15303,7 @@
 "layout.field.label.OrgUnit.dc.description.scope": "Misión",
 "layout.field.label.OrgUnit.organization.foundingdate": "Año de creación",
 "layout.field.label.OrgUnit.dc.description.status": "Estado",
-"layout.field.label.OrgUnit.dc.subject": "Lineas de investigación",
+"layout.field.label.OrgUnit.dc.subject": "Líneas de investigación",
 "layout.field.label.OrgUnit.organization.url": "Sitio web",
 "layout.field.label.OrgUnit.organization.address": "Dirección",
 "layout.field.label.OrgUnit.BITSTREAM": "File(s)",
@@ -15377,10 +15377,12 @@
 "layout.field.label.Product.BITSTREAM": "File(s)",
 
 
-"layout.field.label.Project.dc.subject": "Área de investigación",
-"layout.field.label.Project.dc.subject.classification": "Area de investigación",
+"layout.field.label.Project.dc.subject": "Tema de investigación",
+"layout.field.label.Project.dc.subject.classification": "Área de investigación",
 "layout.field.label.Project.dc.description.abstract": "Descripción",
-"layout.field.label.Project.dc.relation.ispartof": "Área de impacto",
+"layout.field.label.Project.dc.relation.ispartof": "",
+"layout.field.label.Project.dc.relation.ispartoflabel": "Área de impacto",
+"layout.field.label.Project.NESTED[Área de impacto]": "",
 "layout.field.label.Project.dc.contributor.other": "Instituciones colaboradoras",
 "layout.field.label.Project.dc.description.status": "Estado",
 "layout.field.label.Project.dc.date.duration": "Duración",
@@ -15435,7 +15437,6 @@
 "layout.field.label.Project.project.funder.name": "Organismo financiador",
 "layout.field.label.Project.project.grant.type": "Tipo de financiamiento",
 "layout.field.label.Project.project.amount": "Monto",
-"layout.field.label.Project.dc.relation.ispartof": "Área de impacto",
 
 
 "layout.field.label.Person.oairecerif.affiliation.role": "Role",
@@ -15475,13 +15476,15 @@
 "search.filters.filter.ProjectOrgunit.label": "Departamento",
 "search.filters.filter.ProjectResearcher.head":"Investigador",
 "search.filters.filter.ProjectResearcher.label": "Investigador",
-"explore.index.ProjectSubject":"Materia de investigación",
+"explore.index.ProjectSubject":"Tema de investigación",
 
-"search.filters.filter.ProjectSubject.head":"Materia de investigación",
-"search.filters.filter.ProjectSubject.label":"Materia de investigación",
+"search.filters.filter.ProjectSubject.head":"Tema de investigación",
+"search.filters.filter.ProjectSubject.label":"Tema de investigación",
 "search.filters.filter.ProjectSubject.placeholder":"",
-"search.filters.applied.f.ProjectSubject":"Materia de investigación",
+"search.filters.applied.f.ProjectSubject":"Tema de investigación",
 "menu.section.research_dropdown":"Explorar",
+"patente.search.results.head":"Patentes",
+"submission.sections.submit.progressbar.describe.person_connected-papers":"Connected papers",
 "":"",
 
 

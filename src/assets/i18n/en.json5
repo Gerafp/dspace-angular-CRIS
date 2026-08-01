@@ -9175,6 +9175,8 @@
   "layout.field.label.Project.dc.subject.classification": "Subject classification",
   "layout.field.label.Project.dc.description.abstract": "Description",
   "layout.field.label.Project.dc.relation.ispartof": "Impact Area",
+  "layout.field.label.Project.dc.relation.ispartoflabel": "Impact Area",
+" layout.field.label.Project.NESTED[Área de impacto]": "",
   "layout.field.label.Project.dc.contributor.other": "Collaborating Institutions",
   "layout.field.label.Project.dc.description.status": "Status",
   "layout.field.label.Project.dc.date.duration": "Duration",
@@ -9434,5 +9436,7 @@
 "search.filters.filter.ProjectSubject.placeholder":"",
 "search.filters.applied.f.ProjectSubject":"Research subject",
 "menu.section.research_dropdown":"Browse",
+"patente.search.results.head":"Patents",
+"submission.sections.submit.progressbar.describe.person_connected-papers":"Connected papers",
   "":"",
 }
