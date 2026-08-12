@@ -9441,5 +9441,8 @@
 "menu.section.research_dropdown":"Browse",
 "patente.search.results.head":"Patents",
 "submission.sections.submit.progressbar.describe.person_connected-papers":"Connected papers",
+"explore.index.roJournal":"Journals",
+"browse.metadata.roJournal.breadcrumbs":"Search by Journal",
+"browse.metadata.roJournal":"Journals",
   "":"",
 }

@@ -9430,15 +9430,15 @@
 
   // "search.filters.filter.language.head": "Language",
   // TODO New key - Add a translation
-  "search.filters.filter.language.head": "Language",
+  "search.filters.filter.language.head": "Idioma",
 
   // "search.filters.filter.language.label": "Language",
   // TODO New key - Add a translation
-  "search.filters.filter.language.label": "Language",
+  "search.filters.filter.language.label": "Idioma",
 
   // "search.filters.filter.language.placeholder": "Language",
   // TODO New key - Add a translation
-  "search.filters.filter.language.placeholder": "Language",
+  "search.filters.filter.language.placeholder": "Idioma",
 
   // "search.filters.filter.projectOrgUnits.head": "Organizations",
   // TODO New key - Add a translation
@@ -9537,7 +9537,7 @@
   "search.filters.filter.show-more": "Mostrar más",
 
   // "search.filters.filter.subject.head": "Subject",
-  "search.filters.filter.subject.head": "Área de investigación",
+  "search.filters.filter.subject.head": "Área de investigación / Línea de investigación",
 
   // "search.filters.filter.subject.placeholder": "Subject",
   "search.filters.filter.subject.placeholder": "Materias",
@@ -9796,10 +9796,10 @@
   "sorting.DESC": "Descendente",
 
   // "sorting.dc.title.ASC": "Title Ascending",
-  "sorting.dc.title.ASC": "Título ascendente",
+  "sorting.dc.title.ASC": "Nombre ascendente",
 
   // "sorting.dc.title.DESC": "Title Descending",
-  "sorting.dc.title.DESC": "Título Descendente",
+  "sorting.dc.title.DESC": "Nombre descendente",
 
   // "sorting.metric.view.ASC": "Views Ascending",
   // TODO New key - Add a translation
@@ -15482,6 +15482,9 @@
 "menu.section.research_dropdown":"Explorar",
 "patente.search.results.head":"Patentes",
 "submission.sections.submit.progressbar.describe.person_connected-papers":"Connected papers",
+"explore.index.roJournal":"Revistas",
+"browse.metadata.roJournal.breadcrumbs":"Búsqueda por revistas",
+"browse.metadata.roJournal":"Revistas",
 "":"",
 
 
